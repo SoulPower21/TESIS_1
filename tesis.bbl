@@ -1,0 +1,4345 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Abe1966}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87ca4e44d6c1beeda93993a24d605806}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fb5c549c07ef71ee1e38731a44353c9}{%
+           family={Shimakawa},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{fullhash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{bibnamehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{authorbibnamehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{authornamehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{authorfullhash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Paedopsychiatrica}
+      \field{number}{11}
+      \field{title}{Genetic and developmental aspects of sleeptalking and teeth-grinding}
+      \field{volume}{33}
+      \field{year}{1966}
+      \field{pages}{339\bibrangedash 344}
+      \range{pages}{6}
+    \endentry
+    \entry{AmericanAcademy2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de45d263fac73bb46691d419c3d19798}{%
+           family={{American Academy of Sleep Medicine}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Westchester}%
+      }
+      \strng{namehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{fullhash}{de45d263fac73bb46691d419c3d19798}
+      \strng{bibnamehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{authorbibnamehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{authornamehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{authorfullhash}{de45d263fac73bb46691d419c3d19798}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{The International Classification of Sleep Disorders, Revised: Diagnostic and Coding Manual}
+      \field{year}{2014}
+    \endentry
+    \entry{Baldeon2014}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=360b0d49289536b91ac6e4c114882032}{%
+           family={Baldeón},
+           familyi={B\bibinitperiod},
+           given={Cindy\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=634c716ec3203f9368410c25252c62ca}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={César\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=13c7977432d2958fbb0b76abcfb41672}{%
+           family={Balarezo},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ddb3f9f3bce9e72673898e899cb5f2}{%
+           family={Evangelista},
+           familyi={E\bibinitperiod},
+           given={Alexis\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c77f2ec3e44ddd6dee1f9fbd10bb27d}{%
+           family={Velásquez},
+           familyi={V\bibinitperiod},
+           given={José\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b017089a4e764bbef4eb1c73a6ff3852}
+      \strng{fullhash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \strng{bibnamehash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \strng{authorbibnamehash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \strng{authornamehash}{b017089a4e764bbef4eb1c73a6ff3852}
+      \strng{authorfullhash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Estomatológica Herediana}
+      \field{number}{3}
+      \field{title}{Bruxismo y parasitosis intestinal en niños de 4 a 6 años de edad en La Brea (Talara, Piura) Perú}
+      \field{volume}{24}
+      \field{year}{2014}
+      \field{pages}{163\bibrangedash 170}
+      \range{pages}{8}
+    \endentry
+    \entry{blanco2014selfreportbruxism}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=8d38947917cba5f04d618eec39cf0e53}{%
+           family={Blanco\bibnamedelima Aguilera},
+           familyi={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=991a8800a1bad6cff486def1d8dbd194}{%
+           family={Gonzalez\bibnamedelima Lopez},
+           familyi={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5aa1f19669f71e451a8d682e65bcd9ea}{%
+           family={Blanco\bibnamedelima Aguilera},
+           familyi={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a6f4c159c40385d5b5ffd9e3fdbe27a}{%
+           family={De\bibnamedelima la\bibnamedelimb Hoz\bibnamedelima Aizpurua},
+           familyi={D\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5b2e4a7957e9eaaac36d3409ff64834}{%
+           family={Rodriguez\bibnamedelima Torronteras},
+           familyi={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2351720a00618111f709fd48ae9c5fd9}{%
+           family={Segura\bibnamedelima Saint-Gerons},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinithyphendelim G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{9360a8861cdbf21652b4a3068e1c8d14}
+      \strng{fullhash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \strng{bibnamehash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \strng{authorbibnamehash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \strng{authornamehash}{9360a8861cdbf21652b4a3068e1c8d14}
+      \strng{authorfullhash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Oral Rehabilitation}
+      \field{number}{8}
+      \field{title}{Relationship between self-reported sleep bruxism and pain in patients with temporomandibular disorders}
+      \field{volume}{41}
+      \field{year}{2014}
+      \field{pages}{564\bibrangedash 572}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/joor.12172
+      \endverb
+    \endentry
+    \entry{boureau2010theoretical}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34148d946a0126704c777bb55c9a2c39}{%
+           family={Boureau},
+           familyi={B\bibinitperiod},
+           given={Y.-L.},
+           giveni={Y\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c49b45002dacb81d0f0a946a6813d27}{%
+           family={Pons},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ae8dc3a930d73e11e1b22a9ef065055}{%
+           family={LeCun},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c28de4efbb26e36ad381f5eb534d934}
+      \strng{fullhash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \strng{bibnamehash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \strng{authorbibnamehash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \strng{authornamehash}{1c28de4efbb26e36ad381f5eb534d934}
+      \strng{authorfullhash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 27th International Conference on Machine Learning}
+      \field{title}{Theoretical analysis of a convolutional neural network}
+      \field{volume}{28}
+      \field{year}{2010}
+      \field{pages}{99\bibrangedash 106}
+      \range{pages}{8}
+    \endentry
+    \entry{Bulanda2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=643e67cb74fa0f0d600c6ead48672bb2}{%
+           family={Bulanda},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc841f72c8c82304d4afda8833770a10}{%
+           family={Ilczuk-Rypuła},
+           familyi={I\bibinithyphendelim R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=339467b56be7b32405c7cb5c3304ea7e}{%
+           family={Nitecka-Buchta},
+           familyi={N\bibinithyphendelim B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d7f6d817c8237cce3443ec411ce4e48}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db48f646420e8fdad4a3f030f9ee247}{%
+           family={Baron},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e28b70b3cd2b5b3fd00e400e47f1e437}{%
+           family={Postek-Stefańska},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{7ed6a3ad288cd47c2b32d3a2678fd76d}
+      \strng{fullhash}{413677583abc1c204798202fdf4adb5a}
+      \strng{bibnamehash}{413677583abc1c204798202fdf4adb5a}
+      \strng{authorbibnamehash}{413677583abc1c204798202fdf4adb5a}
+      \strng{authornamehash}{7ed6a3ad288cd47c2b32d3a2678fd76d}
+      \strng{authorfullhash}{413677583abc1c204798202fdf4adb5a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{number}{18}
+      \field{title}{Sleep bruxism in children: Etiology, diagnosis and treatment—a literature review}
+      \field{volume}{18}
+      \field{year}{2021}
+      \field{pages}{9544}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ijerph18189544
+      \endverb
+    \endentry
+    \entry{Camoin2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=af2f1cb2c89af5459c055d8e88936595}{%
+           family={Camoin},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4358514bd56478c773cbd6b6930149}{%
+           family={Tardieu},
+           familyi={T\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3122812d519b7f7253b8fda493e2eba9}{%
+           family={Blanchet},
+           familyi={B\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6ba2f24c0a4e778a71ae2d553ca355c}{%
+           family={Orthlieb},
+           familyi={O\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{837814268b8021189e41614615464d3a}
+      \strng{fullhash}{96d49024ceda7cbab7d97920b93d2740}
+      \strng{bibnamehash}{96d49024ceda7cbab7d97920b93d2740}
+      \strng{authorbibnamehash}{96d49024ceda7cbab7d97920b93d2740}
+      \strng{authornamehash}{837814268b8021189e41614615464d3a}
+      \strng{authorfullhash}{96d49024ceda7cbab7d97920b93d2740}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives de Pediatrie}
+      \field{number}{7}
+      \field{title}{Sleep bruxism in children}
+      \field{volume}{24}
+      \field{year}{2017}
+      \field{pages}{659\bibrangedash 666}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.arcped.2017.04.005
+      \endverb
+    \endentry
+    \entry{Cheifetz2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=be6570c03b0c01a4b94f809ff0be2aea}{%
+           family={Cheifetz},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=033e892aad34254659a2d7a8dadcd9ed}{%
+           family={Osganian},
+           familyi={O\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4af87bc857c36caf1bf35f7c96c98519}{%
+           family={Allred},
+           familyi={A\bibinitperiod},
+           given={E.\bibnamedelimi M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3df610ebce4a4404d99f87d9826ed2d5}{%
+           family={Needleman},
+           familyi={N\bibinitperiod},
+           given={H.\bibnamedelimi L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1bab66e2929656f10067854467b4de40}
+      \strng{fullhash}{cb202448180f2430bbffb6ccd41abf30}
+      \strng{bibnamehash}{cb202448180f2430bbffb6ccd41abf30}
+      \strng{authorbibnamehash}{cb202448180f2430bbffb6ccd41abf30}
+      \strng{authornamehash}{1bab66e2929656f10067854467b4de40}
+      \strng{authorfullhash}{cb202448180f2430bbffb6ccd41abf30}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dentistry for Children}
+      \field{number}{2}
+      \field{title}{Prevalence of bruxism and associated correlates in children as reported by parents}
+      \field{volume}{72}
+      \field{year}{2005}
+      \field{pages}{67\bibrangedash 73}
+      \range{pages}{7}
+    \endentry
+    \entry{Chisini2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0c99eaddb4f55df5bd07206d5d5387f8}{%
+           family={Chisini},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bbb3cea128df32ccfc9853e8fbe8a42}{%
+           family={San\bibnamedelima Martin},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={A.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=584884f82ad483802cde6a98b4b9d765}{%
+           family={Cademartori},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3c584488fae1930f1666e1da50aa8da}{%
+           family={Boscato},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=792dad94c29ecddfe4067b5b1ef1fc86}{%
+           family={Correa},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=900dfa1687e3800a0639a28a6af28f01}{%
+           family={Goettems},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e909cb2479b5cbd304a07125f084de9}
+      \strng{fullhash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \strng{bibnamehash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \strng{authorbibnamehash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \strng{authornamehash}{1e909cb2479b5cbd304a07125f084de9}
+      \strng{authorfullhash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Pediatrics}
+      \field{number}{2}
+      \field{title}{Interventions to reduce bruxism in children and adolescents: a systematic scoping review and critical reflection}
+      \field{volume}{179}
+      \field{year}{2020}
+      \field{pages}{177\bibrangedash 189}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00431-019-03549-8
+      \endverb
+    \endentry
+    \entry{mayoclinic2024lenguageografica}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc57de6010935465d2f186a7616c138d}{%
+           family={Clinic},
+           familyi={C\bibinitperiod},
+           given={Mayo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{fullhash}{dc57de6010935465d2f186a7616c138d}
+      \strng{bibnamehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{authorbibnamehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{authornamehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{authorfullhash}{dc57de6010935465d2f186a7616c138d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lengua geográfica: síntomas y causas}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.mayoclinic.org/es/diseases-conditions/geographic-tongue/symptoms-causes/syc-20354396
+      \endverb
+      \verb{url}
+      \verb https://www.mayoclinic.org/es/diseases-conditions/geographic-tongue/symptoms-causes/syc-20354396
+      \endverb
+    \endentry
+    \entry{cortes1995svm}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c294bbcb0687bdb5113cc4c4cd6ebad3}{%
+           family={Cortes},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15983dfc99e798b246e3dff1eaa7b5ef}{%
+           family={Vapnik},
+           familyi={V\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0deab44100f526de958d938be04f4e05}
+      \strng{fullhash}{0deab44100f526de958d938be04f4e05}
+      \strng{bibnamehash}{0deab44100f526de958d938be04f4e05}
+      \strng{authorbibnamehash}{0deab44100f526de958d938be04f4e05}
+      \strng{authornamehash}{0deab44100f526de958d938be04f4e05}
+      \strng{authorfullhash}{0deab44100f526de958d938be04f4e05}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning}
+      \field{number}{3}
+      \field{title}{Support-vector networks}
+      \field{volume}{20}
+      \field{year}{1995}
+      \field{pages}{273\bibrangedash 297}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/BF00994018
+      \endverb
+    \endentry
+    \entry{Delgado2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39323de2e62eaff294dc8d8bfae28499}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{fullhash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{bibnamehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{authorbibnamehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{authornamehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{authorfullhash}{39323de2e62eaff294dc8d8bfae28499}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tesis pregrado, Universidad Peruana Cayetano Heredia}
+      \field{title}{Relación entre el bruxismo y parasitosis intestinal en niños pre-escolares de 4 a 6 años de CEI N° 301 del Distrito de Buenos Aires, Provincia de Morropón}
+      \field{year}{2002}
+    \endentry
+    \entry{clinica2018cefalea}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7aedaf7f55e69e9e40111f5cd67c6a81}{%
+           family={Navarra},
+           familyi={N\bibinitperiod},
+           given={Clínica\bibnamedelima Universidad},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{fullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{bibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorbibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authornamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorfullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cefalea}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.clinicbarcelona.org/asistencia/enfermedades/cefalea
+      \endverb
+      \verb{url}
+      \verb https://www.clinicbarcelona.org/asistencia/enfermedades/cefalea
+      \endverb
+    \endentry
+    \entry{dentaid2024sensibilidad}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e21108f2f5c32a6bd3a25d86bafa2e39}{%
+           family={Dentaid},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{fullhash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{bibnamehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{authorbibnamehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{authornamehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{authorfullhash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hipersensibilidad dentinaria}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.dentaid.es/salud-bucal/sensibilidad-dental
+      \endverb
+      \verb{url}
+      \verb https://www.dentaid.es/salud-bucal/sensibilidad-dental
+      \endverb
+    \endentry
+    \entry{Feasibility2020}{article}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dental Hygiene Science}
+      \field{number}{4}
+      \field{title}{Feasibility Study of Google's Teachable Machine in Diagnosis of Tooth-Marked Tongue}
+      \field{volume}{20}
+      \field{year}{2020}
+      \field{pages}{206\bibrangedash 212}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.17135/jdhs.2020.20.4.206
+      \endverb
+    \endentry
+    \entry{Goettems2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=900dfa1687e3800a0639a28a6af28f01}{%
+           family={Goettems},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecf1f07e031b806e33400687546764a5}{%
+           family={Poletto-Neto},
+           familyi={P\bibinithyphendelim N\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42ef5962b4635d593fa4cccd509f4002}{%
+           family={Shqair},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi Q.},
+           giveni={A\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f483ec6d718ec4727261ea8bb284eb61}{%
+           family={Pinheiro},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22fb8b9fcdcaf948cc6c8225ca65afb6}{%
+           family={Demarco},
+           familyi={D\bibinitperiod},
+           given={F.\bibnamedelimi F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2b7297480a9bef5c36b2360676ee8ebf}
+      \strng{fullhash}{0011ce56de4961abcbd0f50c8101c245}
+      \strng{bibnamehash}{0011ce56de4961abcbd0f50c8101c245}
+      \strng{authorbibnamehash}{0011ce56de4961abcbd0f50c8101c245}
+      \strng{authornamehash}{2b7297480a9bef5c36b2360676ee8ebf}
+      \strng{authorfullhash}{0011ce56de4961abcbd0f50c8101c245}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Paediatric Dentistry}
+      \field{number}{6}
+      \field{title}{Influence of maternal psychological traits on sleep bruxism in children}
+      \field{volume}{27}
+      \field{year}{2017}
+      \field{pages}{469\bibrangedash 475}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1111/ipd.12285
+      \endverb
+    \endentry
+    \entry{goodfellow2014generative}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=97448a3cf6f5cb771679d00efeb7782c}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7ef236cd07201f25b855288ed8a356e}{%
+           family={Pouget-Abadie},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a25040e39c33f455ee036ccc546a1a0}{%
+           family={Mirza},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9de9518d9dc6d0b890a7f960e94ea3ad}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c65c4dc2388ac1d71dc54fadf36acafe}{%
+           family={Warde-Farley},
+           familyi={W\bibinithyphendelim F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10d45392756fd1b256c0d647620b4bfc}{%
+           family={Ozair},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d41d8cd98f00b204e9800998ecf8427e}{%
+           family={...},
+           familyi={.\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=0162d284c680646fe3354338106399ce}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbdf0636afcc58dfa09b4e1be9870f56}
+      \strng{fullhash}{89c47d560d32a723f5b40447b44f4ca3}
+      \strng{bibnamehash}{89c47d560d32a723f5b40447b44f4ca3}
+      \strng{authorbibnamehash}{89c47d560d32a723f5b40447b44f4ca3}
+      \strng{authornamehash}{cbdf0636afcc58dfa09b4e1be9870f56}
+      \strng{authorfullhash}{89c47d560d32a723f5b40447b44f4ca3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Generative adversarial nets}
+      \field{volume}{27}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1406.2661
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1406.2661
+      \endverb
+    \endentry
+    \entry{gutierrez2021bruxismorino}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6fd14c7b42628b9d73847077841b98d}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{fullhash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{bibnamehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{authorbibnamehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{authornamehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{authorfullhash}{b63b67275465d8047a7f82f13503db1a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Otorrinolaringología y Cirugía de Cabeza y Cuello}
+      \field{number}{1}
+      \field{title}{Bruxismo y su relación con otorrinolaringología: una revisión de la literatura}
+      \field{volume}{81}
+      \field{year}{2021}
+      \field{pages}{153\bibrangedash 162}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.4067/S0718-48162021000100153
+      \endverb
+    \endentry
+    \entry{hublin2001parasomniasgenetics}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2fa87853003feff03a1c4313cafae3f1}{%
+           family={Hublin},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{fullhash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{bibnamehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{authorbibnamehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{authornamehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{authorfullhash}{2fa87853003feff03a1c4313cafae3f1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychiatric Genetics}
+      \field{title}{Parasomnias: Co-occurrence and genetics}
+      \field{volume}{2}
+      \field{year}{2001}
+      \field{pages}{65\bibrangedash 70}
+      \range{pages}{6}
+    \endentry
+    \entry{Jiang2022}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=fcb33f0c8626d335119785afb031c1db}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a268e32645f2e2e7a04f0036e973447c}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Zhou},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c46a9fface4e3928b1a27fdfd6ec36e}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xiaojuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9a9a8f4f78b27a0779f4f083564f1e8}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Lingzhi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72e9f6776a35b24d83a6715038b7ea68}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xuxiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=111982e7ae16ba5b1a1ddf9ea1b14416}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jingbin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cccb08b7abc4e72e75a3ceaa8ac67953}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Ji},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba0ccb68ba018696188c86df0eabbd98}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Liping},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d42a4bcc65a6c90d549cd154e0cce50f}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Changle},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=413fd3cdea911b55ab5a284267791947}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Xinghua},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f28fa6ce63a8d4654797b8c8e7dcc06b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiatuo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02768d2788f983dd8fa2fbfb41e793f8}
+      \strng{fullhash}{46628ff16dee902493a0c0b6cc10d607}
+      \strng{bibnamehash}{46628ff16dee902493a0c0b6cc10d607}
+      \strng{authorbibnamehash}{46628ff16dee902493a0c0b6cc10d607}
+      \strng{authornamehash}{02768d2788f983dd8fa2fbfb41e793f8}
+      \strng{authorfullhash}{46628ff16dee902493a0c0b6cc10d607}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Evidence-Based Complementary and Alternative Medicine}
+      \field{title}{Deep Learning Multi-label Tongue Image Analysis and Its Application in a Population Undergoing Routine Medical Checkup}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1155/2022/3384209
+      \endverb
+    \endentry
+    \entry{Jiatuo2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2dfa70605b8fb5eb3284e9adf4cb1ebe}{%
+           family={Jiatuo},
+           familyi={J\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcb33f0c8626d335119785afb031c1db}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0631aab01e788aae9aef191b49e9bb81}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3fbce1567952e625f5a61ca11cfbcb98}
+      \strng{fullhash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \strng{bibnamehash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \strng{authorbibnamehash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \strng{authornamehash}{3fbce1567952e625f5a61ca11cfbcb98}
+      \strng{authorfullhash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digital Chinese Medicine}
+      \field{number}{1}
+      \field{title}{Research status and prospect of tongue image diagnosis analysis based on machine learning}
+      \field{volume}{7}
+      \field{year}{2024}
+      \field{pages}{3\bibrangedash 12}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.dcmed.2024.04.002
+      \endverb
+    \endentry
+    \entry{kato2001epidemiologybruxism}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2678f9199b34c0429d08f507537410c3}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=684d3dc0be637785951ea2b63daaecc8}{%
+           family={Thie},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84204d724e89c6e5e1378c64ea6519e6}{%
+           family={Montplaisir},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcb8d40e2fbca6704d793ade3e6c51a5}{%
+           family={Lavigne},
+           familyi={L\bibinitperiod},
+           given={G.\bibnamedelimi J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a955d216548ad1f104303289d2f01611}
+      \strng{fullhash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \strng{bibnamehash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \strng{authorbibnamehash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \strng{authornamehash}{a955d216548ad1f104303289d2f01611}
+      \strng{authorfullhash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dental Research}
+      \field{number}{11}
+      \field{title}{Epidemiology of bruxism: A review}
+      \field{volume}{80}
+      \field{year}{2001}
+      \field{pages}{1785\bibrangedash 1794}
+      \range{pages}{10}
+    \endentry
+    \entry{kim2017matlabdeeplearning}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9a48a8581dfb3beff7aea1c1e5cf47f7}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Estados Unidos}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{fullhash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{bibnamehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{authorbibnamehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{authornamehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{authorfullhash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MATLAB Deep Learning}
+      \field{year}{2017}
+    \endentry
+    \entry{Kong2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=21173e389590fc5148b020834157777f}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bed3fcce7408cdc81304806a961a36c}{%
+           family={Rui},
+           familyi={R\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c316314514e08f9ae63c7ffc277ad1e}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf602901e0f57363742a43cdffb8ab42}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce084360cc68e7db4fe6cae1287b3adf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aadca1d2243f4a1fa8a875af3765f627}
+      \strng{fullhash}{28ffc0be965476b41dcbd5824e3819ca}
+      \strng{bibnamehash}{28ffc0be965476b41dcbd5824e3819ca}
+      \strng{authorbibnamehash}{28ffc0be965476b41dcbd5824e3819ca}
+      \strng{authornamehash}{aadca1d2243f4a1fa8a875af3765f627}
+      \strng{authorfullhash}{28ffc0be965476b41dcbd5824e3819ca}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{number}{1}
+      \field{title}{Tooth-marked tongue recognition based on Mask Scoring R-CNN}
+      \field{volume}{1651}
+      \field{year}{2020}
+      \field{pages}{012185}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1742-6596/1651/1/012185
+      \endverb
+    \endentry
+    \entry{litjens2017deeplearningmedical}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=83b2447d5c63706b33222ef12587ea54}{%
+           family={Litjens},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c936508a08fdb98b3b95f7c8eb4b412}{%
+           family={Kooi},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72355758410522694839735566f79bbb}{%
+           family={Bejnordi},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69418fb6043919220f56b5ee59c405a5}{%
+           family={Setio},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f478808cd0e923d75ad48b8dbf83e89}{%
+           family={Ciompi},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6485167c134fdafa88eb7b7c1fea83d}{%
+           family={Ghafoorian},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3105e1457d5a076a22883dfe77c33f42}{%
+           family={...\bibnamedelimi &\bibnamedelimb van\bibnamedelimb der\bibnamedelima Laak},
+           familyi={.\bibinitperiod\bibinitdelim &\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6dd55ba78b277cabc411e5ae1c3d005e}
+      \strng{fullhash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \strng{bibnamehash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \strng{authorbibnamehash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \strng{authornamehash}{6dd55ba78b277cabc411e5ae1c3d005e}
+      \strng{authorfullhash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Medicine}
+      \field{number}{9}
+      \field{title}{Deep learning as a tool for increased accuracy in medical image analysis}
+      \field{volume}{23}
+      \field{year}{2017}
+      \field{pages}{1219\bibrangedash 1224}
+      \range{pages}{6}
+    \endentry
+    \entry{Liu2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=c47eb4bdf7506788ca8df6c79ad68a37}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66d548e0e670e107fc4a80dc0c3825b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf33bcda2a93f993c5124cf26991a0f6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c47eb4bdf7506788ca8df6c79ad68a37}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=466ce84bc5093e2ec73b823c573ad026}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbd76d99dff4497fda6976a4f0146e4f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de75d8e160ca13e48c143cc033f970f1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cfd6a0a751f2584672b92e4bc56f21e}
+      \strng{fullhash}{e51cdf4329bfa272da2a60c9429966b0}
+      \strng{bibnamehash}{e51cdf4329bfa272da2a60c9429966b0}
+      \strng{authorbibnamehash}{e51cdf4329bfa272da2a60c9429966b0}
+      \strng{authornamehash}{0cfd6a0a751f2584672b92e4bc56f21e}
+      \strng{authorfullhash}{e51cdf4329bfa272da2a60c9429966b0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digit Health}
+      \field{title}{A survey of artificial intelligence in tongue image for disease diagnosis and syndrome differentiation}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{20552076231191044}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/20552076231191044
+      \endverb
+    \endentry
+    \entry{Lobbezoo1997}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0508ae5c29932e6ba9dd3549493bd790}{%
+           family={Lobbezoo},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcb8d40e2fbca6704d793ade3e6c51a5}{%
+           family={Lavigne},
+           familyi={L\bibinitperiod},
+           given={G.\bibnamedelimi J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{fullhash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{bibnamehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{authorbibnamehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{authornamehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{authorfullhash}{27f8300c7bb805652ae8dcfe61801a25}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Orofacial Pain}
+      \field{number}{1}
+      \field{title}{Do bruxism and temporomandibular disorders have a cause-and-effect relationship?}
+      \field{volume}{11}
+      \field{year}{1997}
+      \field{pages}{15\bibrangedash 23}
+      \range{pages}{9}
+    \endentry
+    \entry{lopezpacheco2021redesconv}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee1c09795f2c94f2c710c9fbe2c2c8ff}{%
+           family={López\bibnamedelima Pacheco},
+           familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional}%
+      }
+      \strng{namehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{fullhash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{bibnamehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{authorbibnamehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{authornamehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{authorfullhash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Redes neuronales convolucionales para el modelado de sistemas no lineales con aplicación al monitoreo de daño estructural}
+      \field{type}{Tesis de maestría}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.ctrl.cinvestav.mx/~yuw/pdf/DoTesMLopez.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ctrl.cinvestav.mx/~yuw/pdf/DoTesMLopez.pdf
+      \endverb
+    \endentry
+    \entry{Luiz2008}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9bce3cfb470134eb83aae9ad9632a496}{%
+           family={Luiz},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f98a138935571efe71e8940fb1ec8afb}{%
+           family={Luiz},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06d3564b175fa5e8a59e68bc22be44b3}{%
+           family={Provenzano},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8bc87fd9a78a7d5203999be8022da4c}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8a5e67d2bad201680a5612a48b2e4a3}{%
+           family={Fracasso},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b04239b9413e251867b16b70dedbcf2a}
+      \strng{fullhash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \strng{bibnamehash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \strng{authorbibnamehash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \strng{authornamehash}{b04239b9413e251867b16b70dedbcf2a}
+      \strng{authorfullhash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rev Dens}
+      \field{number}{2}
+      \field{title}{Bruxismo em Odontopediatria}
+      \field{volume}{16}
+      \field{year}{2008}
+      \field{pages}{14\bibrangedash 20}
+      \range{pages}{7}
+    \endentry
+    \entry{Manfredini2013}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f108745cff36314660d7f3689f0c9428}{%
+           family={Manfredini},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f10ffa6d855e2efb9fc4c287cb712ef8}{%
+           family={Restrepo},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6977c2a8d0a12119eee03d97c2d4588f}{%
+           family={Diaz-Serrano},
+           familyi={D\bibinithyphendelim S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57f3ffbd005620b1546b0cdc5bb846c5}{%
+           family={Winocur},
+           familyi={W\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0508ae5c29932e6ba9dd3549493bd790}{%
+           family={Lobbezoo},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c1bd062d8ad35c2824e722acd1a5f90}
+      \strng{fullhash}{227fe42284f48150d46f70d539e8a293}
+      \strng{bibnamehash}{227fe42284f48150d46f70d539e8a293}
+      \strng{authorbibnamehash}{227fe42284f48150d46f70d539e8a293}
+      \strng{authornamehash}{9c1bd062d8ad35c2824e722acd1a5f90}
+      \strng{authorfullhash}{227fe42284f48150d46f70d539e8a293}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Oral Rehabilitation}
+      \field{number}{8}
+      \field{title}{Prevalence of sleep bruxism in children: a systematic review of the literature}
+      \field{volume}{40}
+      \field{year}{2013}
+      \field{pages}{631\bibrangedash 642}
+      \range{pages}{12}
+    \endentry
+    \entry{marinescu2019mobileappdev}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af835d653cce9b0f3182e37ab4b08704}{%
+           family={Marinescu},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing}%
+      }
+      \strng{namehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{fullhash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{bibnamehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{authorbibnamehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{authornamehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{authorfullhash}{af835d653cce9b0f3182e37ab4b08704}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mobile Application Development: A Practical Guide}
+      \field{year}{2019}
+    \endentry
+    \entry{pan2010survey}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eed11828ee32a4b3f136b2f665492fb5}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fb6d669be33ccc30fc5a1911273dc42}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{fullhash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{bibnamehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{authorbibnamehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{authornamehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{authorfullhash}{60be322601cec9420ae7ec9cb934dd83}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Knowledge and Data Engineering}
+      \field{number}{10}
+      \field{title}{A survey on transfer learning}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{pages}{1345\bibrangedash 1359}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TKDE.2009.191
+      \endverb
+    \endentry
+    \entry{Rojas2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dafdbfd82cee8fa2ddd46c1d4a61a609}{%
+           family={Rojas\bibnamedelima León},
+           familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{fullhash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{bibnamehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{authorbibnamehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{authornamehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{authorfullhash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Universidad San Gregorio de Portoviejo}
+      \field{title}{BRUXISMO INDUCIDO POR ESTRÉS}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://repositorio.sangregorio.edu.ec:8080/bitstream/123456789/2905/1/BRUXISMO INDUCIDO POR ESTRÉS.pdf
+      \endverb
+      \verb{url}
+      \verb http://repositorio.sangregorio.edu.ec:8080/bitstream/123456789/2905/1/BRUXISMO%20INDUCIDO%20POR%20ESTR%C3%89S.pdf
+      \endverb
+    \endentry
+    \entry{Sandoval2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e2332c7c0a59ace07712da685ca014d}{%
+           family={Sandoval},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a23561320a1384693964fd404f9ff1fe}{%
+           family={Fariña},
+           familyi={F\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{fullhash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{bibnamehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{authorbibnamehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{authornamehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{authorfullhash}{07c10dad7d709189fa5d650e7c348fb1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Odontostomatology}
+      \field{number}{1}
+      \field{title}{Prevalencia de bruxismo del sueño en niños y su relación con los signos de trastornos temporomandibulares y las parafunciones diurnas}
+      \field{volume}{10}
+      \field{year}{2016}
+      \field{pages}{41\bibrangedash 47}
+      \range{pages}{7}
+    \endentry
+    \entry{serranegra2009psychosocialbruxism}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6ca8751343b00b3dfc58d3f55abf5fef}{%
+           family={Serra-Negra},
+           familyi={S\bibinithyphendelim N\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc88219e03847857e1ea5cebf3ef4880}{%
+           family={Ramos\bibnamedelima Jorge},
+           familyi={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4037107515b3fe90dae4f6f1d134a03}{%
+           family={Flores-Mendoza},
+           familyi={F\bibinithyphendelim M\bibinitperiod},
+           given={C.\bibnamedelimi E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5396362dcfdb3abb5fbeb5a1dd6dadba}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d3a4891ed48053a78182583c71389fc}{%
+           family={Pordeus},
+           familyi={P\bibinitperiod},
+           given={I.\bibnamedelimi A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8db50d98b37437da5b78024b2ed5f7a0}
+      \strng{fullhash}{5353c701b18ca28fef72ded0a0bea02a}
+      \strng{bibnamehash}{5353c701b18ca28fef72ded0a0bea02a}
+      \strng{authorbibnamehash}{5353c701b18ca28fef72ded0a0bea02a}
+      \strng{authornamehash}{8db50d98b37437da5b78024b2ed5f7a0}
+      \strng{authorfullhash}{5353c701b18ca28fef72ded0a0bea02a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Paediatric Dentistry}
+      \field{title}{Influence of psychosocial factors on the development of sleep bruxism among children}
+      \field{volume}{19}
+      \field{year}{2009}
+      \field{pages}{309\bibrangedash 314}
+      \range{pages}{6}
+    \endentry
+    \entry{Shinkai1998}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0f2098bb0c65396826da7453485edd4a}{%
+           family={Shinkai},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7527468f0c3c2af1486a2fd52cff16d5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d838463ef045857868a4fef29aeccbfb}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={F.\bibnamedelimi A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04fa60f79a2c7842be5b9d90fb52a99a}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3debe4039e94de1105896c0277a9a1dd}
+      \strng{fullhash}{b9b777daa9454cc60ac3149fd453c939}
+      \strng{bibnamehash}{b9b777daa9454cc60ac3149fd453c939}
+      \strng{authorbibnamehash}{b9b777daa9454cc60ac3149fd453c939}
+      \strng{authornamehash}{3debe4039e94de1105896c0277a9a1dd}
+      \strng{authorfullhash}{b9b777daa9454cc60ac3149fd453c939}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rev Odontol Univ São Paulo}
+      \field{number}{1}
+      \field{title}{Prevalence of nocturnal bruxism 2-11-year-old children}
+      \field{volume}{12}
+      \field{year}{1998}
+      \field{pages}{29\bibrangedash 37}
+      \range{pages}{9}
+    \endentry
+    \entry{shorten2019survey}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2578ed69420ce4235e06ea1cbffaa26c}{%
+           family={Shorten},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=befccf2d8e1a45e7fed39de0681f8d24}{%
+           family={Khoshgoftaar},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{fullhash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{bibnamehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{authorbibnamehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{authornamehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{authorfullhash}{6c13f6f412cc095909fffa746a374e5c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Big Data}
+      \field{number}{1}
+      \field{title}{A survey on Image Data Augmentation for Deep Learning}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 48}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.1186/s40537-019-0197-0
+      \endverb
+    \endentry
+    \entry{srivastava2014dropout}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3d78af3d34e4fdd50aa3a9b482c840b3}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c5f7dcfa6f8cfad7a98e00d2c3b338d}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={G.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a98c6ee140cff383b5deb40f1bbadc4a}{%
+           family={Krizhevsky},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3cfbe74042f3457db587a42603e1509}{%
+           family={Sutskever},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff4643153f1f765d12f548c1fa292974}{%
+           family={Salakhutdinov},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b16e9144fb18c2872ff6eb225316a677}
+      \strng{fullhash}{053d3d5246d88fc4d556f60254f2443b}
+      \strng{bibnamehash}{053d3d5246d88fc4d556f60254f2443b}
+      \strng{authorbibnamehash}{053d3d5246d88fc4d556f60254f2443b}
+      \strng{authornamehash}{b16e9144fb18c2872ff6eb225316a677}
+      \strng{authorfullhash}{053d3d5246d88fc4d556f60254f2443b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{1}
+      \field{title}{Dropout: A simple way to prevent neural networks from overfitting}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{pages}{1929\bibrangedash 1958}
+      \range{pages}{30}
+    \endentry
+    \entry{szeliski2010computervision}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d19846bb0d3c0031f9f746e0a1188ab8}{%
+           family={Szeliski},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{fullhash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{bibnamehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{authorbibnamehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{authornamehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{authorfullhash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer Vision: Algorithms and Applications}
+      \field{year}{2010}
+    \endentry
+    \entry{Tang2020}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=a5d04a80ad5e364c3f34f98a8f695e81}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Wenjun},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a85dcf731e772b177341998a236d587a}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28dcf77c455b7bee7b41d166d220da13}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27e95fec17d39466e9abd97b18a97a90}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Tingwei},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e4393c76866843ee57a93d2010a7ade}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a44c3dffdeab4748f9387da05b041ac}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a307f514151c29b877d167be90545f0}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Jinhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c0616c994dd3fcf18aba8a8673cc353}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Weihong},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cacd034725d0431a7b1f3fd4a060c02}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{db57574fe0111ea60ffeba6c68b6021b}
+      \strng{fullhash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \strng{bibnamehash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \strng{authorbibnamehash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \strng{authornamehash}{db57574fe0111ea60ffeba6c68b6021b}
+      \strng{authorfullhash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{An Automatic Recognition of Tooth-Marked Tongue Based on Tongue Region Detection and Tongue Landmark Detection via Deep Learning}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2020.3017725
+      \endverb
+    \endentry
+    \entry{Tiryaki2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=74364d123eada1baf78751ce9e740302}{%
+           family={Tiryaki},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=065f935006507e4c8ea218e8cd440e8f}{%
+           family={Torenek-Agirman},
+           familyi={T\bibinithyphendelim A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d2a01a458c766c667abe161c911bc24}{%
+           family={Miloglu},
+           familyi={M\bibinitperiod},
+           given={O.\bibnamedelimi et\bibnamedelima al.},
+           giveni={O\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b0329633441683b0185d90ee91e69b99}
+      \strng{fullhash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \strng{bibnamehash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \strng{authorbibnamehash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \strng{authornamehash}{b0329633441683b0185d90ee91e69b99}
+      \strng{authorfullhash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Med Imaging}
+      \field{title}{Artificial intelligence in tongue diagnosis: classification of tongue lesions and normal tongue images using deep convolutional neural network}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{pages}{59}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12880-024-01234-3
+      \endverb
+    \endentry
+    \entry{Valera2003}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f981df8b0150a1c985dabb5478caa147}{%
+           family={Valera},
+           familyi={V\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c1ab8ef1f7882c6b73512d914c3cf1b}{%
+           family={Travitzki},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi V.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bc44a8b2364fb0a8c08e0af79daf69f}{%
+           family={Mattar},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7905cdd41d303132844ea498eac97ab9}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e71adf5c91b4af87d4eb2666ab776811}{%
+           family={Elias},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60dbf2160f152c430b460d883f918683}{%
+           family={Anselmo-Lima},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={W.\bibnamedelimi T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35180374858099b44ff2d99ae1403f21}
+      \strng{fullhash}{d171633f2e43014eadfb625b0d4b5651}
+      \strng{bibnamehash}{d171633f2e43014eadfb625b0d4b5651}
+      \strng{authorbibnamehash}{d171633f2e43014eadfb625b0d4b5651}
+      \strng{authornamehash}{35180374858099b44ff2d99ae1403f21}
+      \strng{authorfullhash}{d171633f2e43014eadfb625b0d4b5651}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Pediatric Otorhinolaryngology}
+      \field{number}{7}
+      \field{title}{Muscular functional and orthodontic changes in preschool children with enlarged adenoids and tonsils}
+      \field{volume}{67}
+      \field{year}{2003}
+      \field{pages}{761\bibrangedash 770}
+      \range{pages}{10}
+    \endentry
+    \entry{vallejo2002bruxismoinfantil}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2254048df9123272ad5de94577e4373e}{%
+           family={Vallejo},
+           familyi={V\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6c683f1710d8cbae9d65b887391b3cc}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6a9b702b3e29a227606d7888c73ea5}{%
+           family={Del\bibnamedelima Castillo},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f367639c357c2adac8ea5930b1eedba}
+      \strng{fullhash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \strng{bibnamehash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \strng{authorbibnamehash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \strng{authornamehash}{9f367639c357c2adac8ea5930b1eedba}
+      \strng{authorfullhash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Odontología Pediátrica}
+      \field{title}{El bruxismo infantil}
+      \field{volume}{3}
+      \field{year}{2002}
+      \field{pages}{135\bibrangedash 141}
+      \range{pages}{7}
+    \endentry
+    \entry{vanderas1999catecholaminebruxism}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=072c0c2a998fb3d0375f5946298b2e13}{%
+           family={Vanderas},
+           familyi={V\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04333378d2028c833a677d47190d1fa4}{%
+           family={Menenakou},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db333bc17c3871e07a4675a804483c71}{%
+           family={Qouimtzis},
+           familyi={Q\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3be88ae7749f375e46488e7d9d9183c}
+      \strng{fullhash}{6cb0d0709a1083903c1063199ae58272}
+      \strng{bibnamehash}{6cb0d0709a1083903c1063199ae58272}
+      \strng{authorbibnamehash}{6cb0d0709a1083903c1063199ae58272}
+      \strng{authornamehash}{e3be88ae7749f375e46488e7d9d9183c}
+      \strng{authorfullhash}{6cb0d0709a1083903c1063199ae58272}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Oral Rehabilitation}
+      \field{title}{Urinary catecholamine levels and bruxism in children}
+      \field{volume}{2}
+      \field{year}{1999}
+      \field{pages}{103\bibrangedash 110}
+      \range{pages}{8}
+    \endentry
+    \entry{vieiraandrade2014sleepbruxism}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2a87dcd133d930bff302d7dfc82ee869}{%
+           family={Vieira-Andrade},
+           familyi={V\bibinithyphendelim A\bibinitperiod},
+           given={R.\bibnamedelimi G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1534d15c8479f68a3c2c1d1394287981}{%
+           family={Drumond},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e44781c4ff20d6b3f8a3606e3e08071e}{%
+           family={Martins-Júnior},
+           familyi={M\bibinithyphendelim J\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{f64965c16e8b088bcf846eef45e46b01}
+      \strng{fullhash}{bc670ec4126682758fa451bace69dc2f}
+      \strng{bibnamehash}{bc670ec4126682758fa451bace69dc2f}
+      \strng{authorbibnamehash}{bc670ec4126682758fa451bace69dc2f}
+      \strng{authornamehash}{f64965c16e8b088bcf846eef45e46b01}
+      \strng{authorfullhash}{bc670ec4126682758fa451bace69dc2f}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatric Dentistry}
+      \field{title}{Prevalence of sleep bruxism and associated factors in preschool children}
+      \field{volume}{36}
+      \field{year}{2014}
+      \field{pages}{46\bibrangedash 50}
+      \range{pages}{5}
+    \endentry
+    \entry{Zambra2003}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6b6fb2429fba01bbc5d1cec6605c4702}{%
+           family={Zambra},
+           familyi={Z\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c26bd6f5d0035d3d5e1e256486818e4d}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={C.\bibnamedelimi F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a93c9394402939097459b4d81b423922}
+      \strng{fullhash}{a93c9394402939097459b4d81b423922}
+      \strng{bibnamehash}{a93c9394402939097459b4d81b423922}
+      \strng{authorbibnamehash}{a93c9394402939097459b4d81b423922}
+      \strng{authornamehash}{a93c9394402939097459b4d81b423922}
+      \strng{authorfullhash}{a93c9394402939097459b4d81b423922}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Av Odontoestomatol}
+      \field{title}{Bruxismo}
+      \field{volume}{19}
+      \field{year}{2003}
+      \field{pages}{123\bibrangedash 130}
+      \range{pages}{8}
+    \endentry
+    \entry{Zhao2024}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5ed0767d6fd8878eadd910808e733e3f}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xinshen},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc23eb566ce30e1c86e358a959a9d6e7}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ad67b3bb0e3ac48c12bbda8ffcd2c3f}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Xiangyong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2053a78b8c7e674d28eabbe236f2f077}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50ceff0829b288fc0f45395bb44ad409}
+      \strng{fullhash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \strng{bibnamehash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \strng{authorbibnamehash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \strng{authornamehash}{50ceff0829b288fc0f45395bb44ad409}
+      \strng{authorfullhash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Swin-ResNet: Research and Implementation of a Tooth-Marked Tongue Classification Method Combining ResNet-50 and Swin Transformer}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1145/3644116.3644271
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Abe1966}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87ca4e44d6c1beeda93993a24d605806}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fb5c549c07ef71ee1e38731a44353c9}{%
+           family={Shimakawa},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{fullhash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{bibnamehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{authorbibnamehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{authornamehash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \strng{authorfullhash}{df29a65c7bdf9f1e2f84268822e734d9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Paedopsychiatrica}
+      \field{number}{11}
+      \field{title}{Genetic and developmental aspects of sleeptalking and teeth-grinding}
+      \field{volume}{33}
+      \field{year}{1966}
+      \field{pages}{339\bibrangedash 344}
+      \range{pages}{6}
+    \endentry
+    \entry{AmericanAcademy2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de45d263fac73bb46691d419c3d19798}{%
+           family={{American Academy of Sleep Medicine}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Westchester}%
+      }
+      \strng{namehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{fullhash}{de45d263fac73bb46691d419c3d19798}
+      \strng{bibnamehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{authorbibnamehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{authornamehash}{de45d263fac73bb46691d419c3d19798}
+      \strng{authorfullhash}{de45d263fac73bb46691d419c3d19798}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{The International Classification of Sleep Disorders, Revised: Diagnostic and Coding Manual}
+      \field{year}{2014}
+    \endentry
+    \entry{Baldeon2014}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=360b0d49289536b91ac6e4c114882032}{%
+           family={Baldeón},
+           familyi={B\bibinitperiod},
+           given={Cindy\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=634c716ec3203f9368410c25252c62ca}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={César\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=13c7977432d2958fbb0b76abcfb41672}{%
+           family={Balarezo},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ddb3f9f3bce9e72673898e899cb5f2}{%
+           family={Evangelista},
+           familyi={E\bibinitperiod},
+           given={Alexis\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c77f2ec3e44ddd6dee1f9fbd10bb27d}{%
+           family={Velásquez},
+           familyi={V\bibinitperiod},
+           given={José\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b017089a4e764bbef4eb1c73a6ff3852}
+      \strng{fullhash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \strng{bibnamehash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \strng{authorbibnamehash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \strng{authornamehash}{b017089a4e764bbef4eb1c73a6ff3852}
+      \strng{authorfullhash}{5f18766d7a65eea4c8515babd34dd0d7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Estomatológica Herediana}
+      \field{number}{3}
+      \field{title}{Bruxismo y parasitosis intestinal en niños de 4 a 6 años de edad en La Brea (Talara, Piura) Perú}
+      \field{volume}{24}
+      \field{year}{2014}
+      \field{pages}{163\bibrangedash 170}
+      \range{pages}{8}
+    \endentry
+    \entry{blanco2014selfreportbruxism}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=8d38947917cba5f04d618eec39cf0e53}{%
+           family={Blanco\bibnamedelima Aguilera},
+           familyi={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=991a8800a1bad6cff486def1d8dbd194}{%
+           family={Gonzalez\bibnamedelima Lopez},
+           familyi={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5aa1f19669f71e451a8d682e65bcd9ea}{%
+           family={Blanco\bibnamedelima Aguilera},
+           familyi={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a6f4c159c40385d5b5ffd9e3fdbe27a}{%
+           family={De\bibnamedelima la\bibnamedelimb Hoz\bibnamedelima Aizpurua},
+           familyi={D\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5b2e4a7957e9eaaac36d3409ff64834}{%
+           family={Rodriguez\bibnamedelima Torronteras},
+           familyi={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2351720a00618111f709fd48ae9c5fd9}{%
+           family={Segura\bibnamedelima Saint-Gerons},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinithyphendelim G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{9360a8861cdbf21652b4a3068e1c8d14}
+      \strng{fullhash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \strng{bibnamehash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \strng{authorbibnamehash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \strng{authornamehash}{9360a8861cdbf21652b4a3068e1c8d14}
+      \strng{authorfullhash}{142bc7444a9d0edeeea87bfaae9a6b92}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Oral Rehabilitation}
+      \field{number}{8}
+      \field{title}{Relationship between self-reported sleep bruxism and pain in patients with temporomandibular disorders}
+      \field{volume}{41}
+      \field{year}{2014}
+      \field{pages}{564\bibrangedash 572}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/joor.12172
+      \endverb
+    \endentry
+    \entry{boureau2010theoretical}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34148d946a0126704c777bb55c9a2c39}{%
+           family={Boureau},
+           familyi={B\bibinitperiod},
+           given={Y.-L.},
+           giveni={Y\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c49b45002dacb81d0f0a946a6813d27}{%
+           family={Pons},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ae8dc3a930d73e11e1b22a9ef065055}{%
+           family={LeCun},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c28de4efbb26e36ad381f5eb534d934}
+      \strng{fullhash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \strng{bibnamehash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \strng{authorbibnamehash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \strng{authornamehash}{1c28de4efbb26e36ad381f5eb534d934}
+      \strng{authorfullhash}{aa4f42ecdb20e7ef55b16254934ff0a4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 27th International Conference on Machine Learning}
+      \field{title}{Theoretical analysis of a convolutional neural network}
+      \field{volume}{28}
+      \field{year}{2010}
+      \field{pages}{99\bibrangedash 106}
+      \range{pages}{8}
+    \endentry
+    \entry{Bulanda2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=643e67cb74fa0f0d600c6ead48672bb2}{%
+           family={Bulanda},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc841f72c8c82304d4afda8833770a10}{%
+           family={Ilczuk-Rypuła},
+           familyi={I\bibinithyphendelim R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=339467b56be7b32405c7cb5c3304ea7e}{%
+           family={Nitecka-Buchta},
+           familyi={N\bibinithyphendelim B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d7f6d817c8237cce3443ec411ce4e48}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2db48f646420e8fdad4a3f030f9ee247}{%
+           family={Baron},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e28b70b3cd2b5b3fd00e400e47f1e437}{%
+           family={Postek-Stefańska},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{7ed6a3ad288cd47c2b32d3a2678fd76d}
+      \strng{fullhash}{413677583abc1c204798202fdf4adb5a}
+      \strng{bibnamehash}{413677583abc1c204798202fdf4adb5a}
+      \strng{authorbibnamehash}{413677583abc1c204798202fdf4adb5a}
+      \strng{authornamehash}{7ed6a3ad288cd47c2b32d3a2678fd76d}
+      \strng{authorfullhash}{413677583abc1c204798202fdf4adb5a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{number}{18}
+      \field{title}{Sleep bruxism in children: Etiology, diagnosis and treatment—a literature review}
+      \field{volume}{18}
+      \field{year}{2021}
+      \field{pages}{9544}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ijerph18189544
+      \endverb
+    \endentry
+    \entry{Camoin2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=af2f1cb2c89af5459c055d8e88936595}{%
+           family={Camoin},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4358514bd56478c773cbd6b6930149}{%
+           family={Tardieu},
+           familyi={T\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3122812d519b7f7253b8fda493e2eba9}{%
+           family={Blanchet},
+           familyi={B\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6ba2f24c0a4e778a71ae2d553ca355c}{%
+           family={Orthlieb},
+           familyi={O\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{837814268b8021189e41614615464d3a}
+      \strng{fullhash}{96d49024ceda7cbab7d97920b93d2740}
+      \strng{bibnamehash}{96d49024ceda7cbab7d97920b93d2740}
+      \strng{authorbibnamehash}{96d49024ceda7cbab7d97920b93d2740}
+      \strng{authornamehash}{837814268b8021189e41614615464d3a}
+      \strng{authorfullhash}{96d49024ceda7cbab7d97920b93d2740}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives de Pediatrie}
+      \field{number}{7}
+      \field{title}{Sleep bruxism in children}
+      \field{volume}{24}
+      \field{year}{2017}
+      \field{pages}{659\bibrangedash 666}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.arcped.2017.04.005
+      \endverb
+    \endentry
+    \entry{Cheifetz2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=be6570c03b0c01a4b94f809ff0be2aea}{%
+           family={Cheifetz},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=033e892aad34254659a2d7a8dadcd9ed}{%
+           family={Osganian},
+           familyi={O\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4af87bc857c36caf1bf35f7c96c98519}{%
+           family={Allred},
+           familyi={A\bibinitperiod},
+           given={E.\bibnamedelimi M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3df610ebce4a4404d99f87d9826ed2d5}{%
+           family={Needleman},
+           familyi={N\bibinitperiod},
+           given={H.\bibnamedelimi L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1bab66e2929656f10067854467b4de40}
+      \strng{fullhash}{cb202448180f2430bbffb6ccd41abf30}
+      \strng{bibnamehash}{cb202448180f2430bbffb6ccd41abf30}
+      \strng{authorbibnamehash}{cb202448180f2430bbffb6ccd41abf30}
+      \strng{authornamehash}{1bab66e2929656f10067854467b4de40}
+      \strng{authorfullhash}{cb202448180f2430bbffb6ccd41abf30}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dentistry for Children}
+      \field{number}{2}
+      \field{title}{Prevalence of bruxism and associated correlates in children as reported by parents}
+      \field{volume}{72}
+      \field{year}{2005}
+      \field{pages}{67\bibrangedash 73}
+      \range{pages}{7}
+    \endentry
+    \entry{Chisini2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0c99eaddb4f55df5bd07206d5d5387f8}{%
+           family={Chisini},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bbb3cea128df32ccfc9853e8fbe8a42}{%
+           family={San\bibnamedelima Martin},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={A.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=584884f82ad483802cde6a98b4b9d765}{%
+           family={Cademartori},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3c584488fae1930f1666e1da50aa8da}{%
+           family={Boscato},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=792dad94c29ecddfe4067b5b1ef1fc86}{%
+           family={Correa},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=900dfa1687e3800a0639a28a6af28f01}{%
+           family={Goettems},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e909cb2479b5cbd304a07125f084de9}
+      \strng{fullhash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \strng{bibnamehash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \strng{authorbibnamehash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \strng{authornamehash}{1e909cb2479b5cbd304a07125f084de9}
+      \strng{authorfullhash}{82ee7a14bb30fe3cd36ce2b06adacf56}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Pediatrics}
+      \field{number}{2}
+      \field{title}{Interventions to reduce bruxism in children and adolescents: a systematic scoping review and critical reflection}
+      \field{volume}{179}
+      \field{year}{2020}
+      \field{pages}{177\bibrangedash 189}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00431-019-03549-8
+      \endverb
+    \endentry
+    \entry{mayoclinic2024lenguageografica}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc57de6010935465d2f186a7616c138d}{%
+           family={Clinic},
+           familyi={C\bibinitperiod},
+           given={Mayo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{fullhash}{dc57de6010935465d2f186a7616c138d}
+      \strng{bibnamehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{authorbibnamehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{authornamehash}{dc57de6010935465d2f186a7616c138d}
+      \strng{authorfullhash}{dc57de6010935465d2f186a7616c138d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lengua geográfica: síntomas y causas}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.mayoclinic.org/es/diseases-conditions/geographic-tongue/symptoms-causes/syc-20354396
+      \endverb
+      \verb{url}
+      \verb https://www.mayoclinic.org/es/diseases-conditions/geographic-tongue/symptoms-causes/syc-20354396
+      \endverb
+    \endentry
+    \entry{cortes1995svm}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c294bbcb0687bdb5113cc4c4cd6ebad3}{%
+           family={Cortes},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15983dfc99e798b246e3dff1eaa7b5ef}{%
+           family={Vapnik},
+           familyi={V\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0deab44100f526de958d938be04f4e05}
+      \strng{fullhash}{0deab44100f526de958d938be04f4e05}
+      \strng{bibnamehash}{0deab44100f526de958d938be04f4e05}
+      \strng{authorbibnamehash}{0deab44100f526de958d938be04f4e05}
+      \strng{authornamehash}{0deab44100f526de958d938be04f4e05}
+      \strng{authorfullhash}{0deab44100f526de958d938be04f4e05}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning}
+      \field{number}{3}
+      \field{title}{Support-vector networks}
+      \field{volume}{20}
+      \field{year}{1995}
+      \field{pages}{273\bibrangedash 297}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/BF00994018
+      \endverb
+    \endentry
+    \entry{Delgado2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39323de2e62eaff294dc8d8bfae28499}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{fullhash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{bibnamehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{authorbibnamehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{authornamehash}{39323de2e62eaff294dc8d8bfae28499}
+      \strng{authorfullhash}{39323de2e62eaff294dc8d8bfae28499}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tesis pregrado, Universidad Peruana Cayetano Heredia}
+      \field{title}{Relación entre el bruxismo y parasitosis intestinal en niños pre-escolares de 4 a 6 años de CEI N° 301 del Distrito de Buenos Aires, Provincia de Morropón}
+      \field{year}{2002}
+    \endentry
+    \entry{clinica2018cefalea}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7aedaf7f55e69e9e40111f5cd67c6a81}{%
+           family={Navarra},
+           familyi={N\bibinitperiod},
+           given={Clínica\bibnamedelima Universidad},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{fullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{bibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorbibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authornamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorfullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cefalea}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.clinicbarcelona.org/asistencia/enfermedades/cefalea
+      \endverb
+      \verb{url}
+      \verb https://www.clinicbarcelona.org/asistencia/enfermedades/cefalea
+      \endverb
+    \endentry
+    \entry{dentaid2024sensibilidad}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e21108f2f5c32a6bd3a25d86bafa2e39}{%
+           family={Dentaid},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{fullhash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{bibnamehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{authorbibnamehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{authornamehash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \strng{authorfullhash}{e21108f2f5c32a6bd3a25d86bafa2e39}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hipersensibilidad dentinaria}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.dentaid.es/salud-bucal/sensibilidad-dental
+      \endverb
+      \verb{url}
+      \verb https://www.dentaid.es/salud-bucal/sensibilidad-dental
+      \endverb
+    \endentry
+    \entry{Feasibility2020}{article}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dental Hygiene Science}
+      \field{number}{4}
+      \field{title}{Feasibility Study of Google's Teachable Machine in Diagnosis of Tooth-Marked Tongue}
+      \field{volume}{20}
+      \field{year}{2020}
+      \field{pages}{206\bibrangedash 212}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.17135/jdhs.2020.20.4.206
+      \endverb
+    \endentry
+    \entry{Goettems2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=900dfa1687e3800a0639a28a6af28f01}{%
+           family={Goettems},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecf1f07e031b806e33400687546764a5}{%
+           family={Poletto-Neto},
+           familyi={P\bibinithyphendelim N\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42ef5962b4635d593fa4cccd509f4002}{%
+           family={Shqair},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi Q.},
+           giveni={A\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f483ec6d718ec4727261ea8bb284eb61}{%
+           family={Pinheiro},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22fb8b9fcdcaf948cc6c8225ca65afb6}{%
+           family={Demarco},
+           familyi={D\bibinitperiod},
+           given={F.\bibnamedelimi F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2b7297480a9bef5c36b2360676ee8ebf}
+      \strng{fullhash}{0011ce56de4961abcbd0f50c8101c245}
+      \strng{bibnamehash}{0011ce56de4961abcbd0f50c8101c245}
+      \strng{authorbibnamehash}{0011ce56de4961abcbd0f50c8101c245}
+      \strng{authornamehash}{2b7297480a9bef5c36b2360676ee8ebf}
+      \strng{authorfullhash}{0011ce56de4961abcbd0f50c8101c245}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Paediatric Dentistry}
+      \field{number}{6}
+      \field{title}{Influence of maternal psychological traits on sleep bruxism in children}
+      \field{volume}{27}
+      \field{year}{2017}
+      \field{pages}{469\bibrangedash 475}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1111/ipd.12285
+      \endverb
+    \endentry
+    \entry{goodfellow2014generative}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=97448a3cf6f5cb771679d00efeb7782c}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7ef236cd07201f25b855288ed8a356e}{%
+           family={Pouget-Abadie},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a25040e39c33f455ee036ccc546a1a0}{%
+           family={Mirza},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9de9518d9dc6d0b890a7f960e94ea3ad}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c65c4dc2388ac1d71dc54fadf36acafe}{%
+           family={Warde-Farley},
+           familyi={W\bibinithyphendelim F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10d45392756fd1b256c0d647620b4bfc}{%
+           family={Ozair},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d41d8cd98f00b204e9800998ecf8427e}{%
+           family={...},
+           familyi={.\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=0162d284c680646fe3354338106399ce}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbdf0636afcc58dfa09b4e1be9870f56}
+      \strng{fullhash}{89c47d560d32a723f5b40447b44f4ca3}
+      \strng{bibnamehash}{89c47d560d32a723f5b40447b44f4ca3}
+      \strng{authorbibnamehash}{89c47d560d32a723f5b40447b44f4ca3}
+      \strng{authornamehash}{cbdf0636afcc58dfa09b4e1be9870f56}
+      \strng{authorfullhash}{89c47d560d32a723f5b40447b44f4ca3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Generative adversarial nets}
+      \field{volume}{27}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1406.2661
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1406.2661
+      \endverb
+    \endentry
+    \entry{gutierrez2021bruxismorino}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6fd14c7b42628b9d73847077841b98d}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{fullhash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{bibnamehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{authorbibnamehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{authornamehash}{b63b67275465d8047a7f82f13503db1a}
+      \strng{authorfullhash}{b63b67275465d8047a7f82f13503db1a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Otorrinolaringología y Cirugía de Cabeza y Cuello}
+      \field{number}{1}
+      \field{title}{Bruxismo y su relación con otorrinolaringología: una revisión de la literatura}
+      \field{volume}{81}
+      \field{year}{2021}
+      \field{pages}{153\bibrangedash 162}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.4067/S0718-48162021000100153
+      \endverb
+    \endentry
+    \entry{hublin2001parasomniasgenetics}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2fa87853003feff03a1c4313cafae3f1}{%
+           family={Hublin},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{fullhash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{bibnamehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{authorbibnamehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{authornamehash}{2fa87853003feff03a1c4313cafae3f1}
+      \strng{authorfullhash}{2fa87853003feff03a1c4313cafae3f1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychiatric Genetics}
+      \field{title}{Parasomnias: Co-occurrence and genetics}
+      \field{volume}{2}
+      \field{year}{2001}
+      \field{pages}{65\bibrangedash 70}
+      \range{pages}{6}
+    \endentry
+    \entry{Jiang2022}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=fcb33f0c8626d335119785afb031c1db}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a268e32645f2e2e7a04f0036e973447c}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Zhou},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c46a9fface4e3928b1a27fdfd6ec36e}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xiaojuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9a9a8f4f78b27a0779f4f083564f1e8}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Lingzhi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72e9f6776a35b24d83a6715038b7ea68}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xuxiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=111982e7ae16ba5b1a1ddf9ea1b14416}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jingbin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cccb08b7abc4e72e75a3ceaa8ac67953}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Ji},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba0ccb68ba018696188c86df0eabbd98}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Liping},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d42a4bcc65a6c90d549cd154e0cce50f}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Changle},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=413fd3cdea911b55ab5a284267791947}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Xinghua},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f28fa6ce63a8d4654797b8c8e7dcc06b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiatuo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02768d2788f983dd8fa2fbfb41e793f8}
+      \strng{fullhash}{46628ff16dee902493a0c0b6cc10d607}
+      \strng{bibnamehash}{46628ff16dee902493a0c0b6cc10d607}
+      \strng{authorbibnamehash}{46628ff16dee902493a0c0b6cc10d607}
+      \strng{authornamehash}{02768d2788f983dd8fa2fbfb41e793f8}
+      \strng{authorfullhash}{46628ff16dee902493a0c0b6cc10d607}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Evidence-Based Complementary and Alternative Medicine}
+      \field{title}{Deep Learning Multi-label Tongue Image Analysis and Its Application in a Population Undergoing Routine Medical Checkup}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1155/2022/3384209
+      \endverb
+    \endentry
+    \entry{Jiatuo2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2dfa70605b8fb5eb3284e9adf4cb1ebe}{%
+           family={Jiatuo},
+           familyi={J\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcb33f0c8626d335119785afb031c1db}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0631aab01e788aae9aef191b49e9bb81}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3fbce1567952e625f5a61ca11cfbcb98}
+      \strng{fullhash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \strng{bibnamehash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \strng{authorbibnamehash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \strng{authornamehash}{3fbce1567952e625f5a61ca11cfbcb98}
+      \strng{authorfullhash}{793a623ae5b369e68d2e2f89f7e1345f}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digital Chinese Medicine}
+      \field{number}{1}
+      \field{title}{Research status and prospect of tongue image diagnosis analysis based on machine learning}
+      \field{volume}{7}
+      \field{year}{2024}
+      \field{pages}{3\bibrangedash 12}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.dcmed.2024.04.002
+      \endverb
+    \endentry
+    \entry{kato2001epidemiologybruxism}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2678f9199b34c0429d08f507537410c3}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=684d3dc0be637785951ea2b63daaecc8}{%
+           family={Thie},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84204d724e89c6e5e1378c64ea6519e6}{%
+           family={Montplaisir},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcb8d40e2fbca6704d793ade3e6c51a5}{%
+           family={Lavigne},
+           familyi={L\bibinitperiod},
+           given={G.\bibnamedelimi J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a955d216548ad1f104303289d2f01611}
+      \strng{fullhash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \strng{bibnamehash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \strng{authorbibnamehash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \strng{authornamehash}{a955d216548ad1f104303289d2f01611}
+      \strng{authorfullhash}{ababa7fbeabd1f67ff727ce12a5744c7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dental Research}
+      \field{number}{11}
+      \field{title}{Epidemiology of bruxism: A review}
+      \field{volume}{80}
+      \field{year}{2001}
+      \field{pages}{1785\bibrangedash 1794}
+      \range{pages}{10}
+    \endentry
+    \entry{kim2017matlabdeeplearning}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9a48a8581dfb3beff7aea1c1e5cf47f7}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Estados Unidos}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{fullhash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{bibnamehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{authorbibnamehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{authornamehash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \strng{authorfullhash}{9a48a8581dfb3beff7aea1c1e5cf47f7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MATLAB Deep Learning}
+      \field{year}{2017}
+    \endentry
+    \entry{Kong2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=21173e389590fc5148b020834157777f}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bed3fcce7408cdc81304806a961a36c}{%
+           family={Rui},
+           familyi={R\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c316314514e08f9ae63c7ffc277ad1e}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf602901e0f57363742a43cdffb8ab42}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce084360cc68e7db4fe6cae1287b3adf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aadca1d2243f4a1fa8a875af3765f627}
+      \strng{fullhash}{28ffc0be965476b41dcbd5824e3819ca}
+      \strng{bibnamehash}{28ffc0be965476b41dcbd5824e3819ca}
+      \strng{authorbibnamehash}{28ffc0be965476b41dcbd5824e3819ca}
+      \strng{authornamehash}{aadca1d2243f4a1fa8a875af3765f627}
+      \strng{authorfullhash}{28ffc0be965476b41dcbd5824e3819ca}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{number}{1}
+      \field{title}{Tooth-marked tongue recognition based on Mask Scoring R-CNN}
+      \field{volume}{1651}
+      \field{year}{2020}
+      \field{pages}{012185}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1742-6596/1651/1/012185
+      \endverb
+    \endentry
+    \entry{litjens2017deeplearningmedical}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=83b2447d5c63706b33222ef12587ea54}{%
+           family={Litjens},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c936508a08fdb98b3b95f7c8eb4b412}{%
+           family={Kooi},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72355758410522694839735566f79bbb}{%
+           family={Bejnordi},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69418fb6043919220f56b5ee59c405a5}{%
+           family={Setio},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f478808cd0e923d75ad48b8dbf83e89}{%
+           family={Ciompi},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6485167c134fdafa88eb7b7c1fea83d}{%
+           family={Ghafoorian},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3105e1457d5a076a22883dfe77c33f42}{%
+           family={...\bibnamedelimi &\bibnamedelimb van\bibnamedelimb der\bibnamedelima Laak},
+           familyi={.\bibinitperiod\bibinitdelim &\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6dd55ba78b277cabc411e5ae1c3d005e}
+      \strng{fullhash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \strng{bibnamehash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \strng{authorbibnamehash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \strng{authornamehash}{6dd55ba78b277cabc411e5ae1c3d005e}
+      \strng{authorfullhash}{aca1c3a3c98819bfa96ee640c84b1248}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Medicine}
+      \field{number}{9}
+      \field{title}{Deep learning as a tool for increased accuracy in medical image analysis}
+      \field{volume}{23}
+      \field{year}{2017}
+      \field{pages}{1219\bibrangedash 1224}
+      \range{pages}{6}
+    \endentry
+    \entry{Liu2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=c47eb4bdf7506788ca8df6c79ad68a37}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66d548e0e670e107fc4a80dc0c3825b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf33bcda2a93f993c5124cf26991a0f6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c47eb4bdf7506788ca8df6c79ad68a37}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=466ce84bc5093e2ec73b823c573ad026}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbd76d99dff4497fda6976a4f0146e4f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de75d8e160ca13e48c143cc033f970f1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cfd6a0a751f2584672b92e4bc56f21e}
+      \strng{fullhash}{e51cdf4329bfa272da2a60c9429966b0}
+      \strng{bibnamehash}{e51cdf4329bfa272da2a60c9429966b0}
+      \strng{authorbibnamehash}{e51cdf4329bfa272da2a60c9429966b0}
+      \strng{authornamehash}{0cfd6a0a751f2584672b92e4bc56f21e}
+      \strng{authorfullhash}{e51cdf4329bfa272da2a60c9429966b0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digit Health}
+      \field{title}{A survey of artificial intelligence in tongue image for disease diagnosis and syndrome differentiation}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{20552076231191044}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/20552076231191044
+      \endverb
+    \endentry
+    \entry{Lobbezoo1997}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0508ae5c29932e6ba9dd3549493bd790}{%
+           family={Lobbezoo},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcb8d40e2fbca6704d793ade3e6c51a5}{%
+           family={Lavigne},
+           familyi={L\bibinitperiod},
+           given={G.\bibnamedelimi J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{fullhash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{bibnamehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{authorbibnamehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{authornamehash}{27f8300c7bb805652ae8dcfe61801a25}
+      \strng{authorfullhash}{27f8300c7bb805652ae8dcfe61801a25}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Orofacial Pain}
+      \field{number}{1}
+      \field{title}{Do bruxism and temporomandibular disorders have a cause-and-effect relationship?}
+      \field{volume}{11}
+      \field{year}{1997}
+      \field{pages}{15\bibrangedash 23}
+      \range{pages}{9}
+    \endentry
+    \entry{lopezpacheco2021redesconv}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee1c09795f2c94f2c710c9fbe2c2c8ff}{%
+           family={López\bibnamedelima Pacheco},
+           familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional}%
+      }
+      \strng{namehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{fullhash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{bibnamehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{authorbibnamehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{authornamehash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \strng{authorfullhash}{ee1c09795f2c94f2c710c9fbe2c2c8ff}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Redes neuronales convolucionales para el modelado de sistemas no lineales con aplicación al monitoreo de daño estructural}
+      \field{type}{Tesis de maestría}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.ctrl.cinvestav.mx/~yuw/pdf/DoTesMLopez.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ctrl.cinvestav.mx/~yuw/pdf/DoTesMLopez.pdf
+      \endverb
+    \endentry
+    \entry{Luiz2008}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9bce3cfb470134eb83aae9ad9632a496}{%
+           family={Luiz},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f98a138935571efe71e8940fb1ec8afb}{%
+           family={Luiz},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06d3564b175fa5e8a59e68bc22be44b3}{%
+           family={Provenzano},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8bc87fd9a78a7d5203999be8022da4c}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8a5e67d2bad201680a5612a48b2e4a3}{%
+           family={Fracasso},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b04239b9413e251867b16b70dedbcf2a}
+      \strng{fullhash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \strng{bibnamehash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \strng{authorbibnamehash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \strng{authornamehash}{b04239b9413e251867b16b70dedbcf2a}
+      \strng{authorfullhash}{2d19f6ede087d7ee7c1c569f6466a751}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rev Dens}
+      \field{number}{2}
+      \field{title}{Bruxismo em Odontopediatria}
+      \field{volume}{16}
+      \field{year}{2008}
+      \field{pages}{14\bibrangedash 20}
+      \range{pages}{7}
+    \endentry
+    \entry{Manfredini2013}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f108745cff36314660d7f3689f0c9428}{%
+           family={Manfredini},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f10ffa6d855e2efb9fc4c287cb712ef8}{%
+           family={Restrepo},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6977c2a8d0a12119eee03d97c2d4588f}{%
+           family={Diaz-Serrano},
+           familyi={D\bibinithyphendelim S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57f3ffbd005620b1546b0cdc5bb846c5}{%
+           family={Winocur},
+           familyi={W\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0508ae5c29932e6ba9dd3549493bd790}{%
+           family={Lobbezoo},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c1bd062d8ad35c2824e722acd1a5f90}
+      \strng{fullhash}{227fe42284f48150d46f70d539e8a293}
+      \strng{bibnamehash}{227fe42284f48150d46f70d539e8a293}
+      \strng{authorbibnamehash}{227fe42284f48150d46f70d539e8a293}
+      \strng{authornamehash}{9c1bd062d8ad35c2824e722acd1a5f90}
+      \strng{authorfullhash}{227fe42284f48150d46f70d539e8a293}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Oral Rehabilitation}
+      \field{number}{8}
+      \field{title}{Prevalence of sleep bruxism in children: a systematic review of the literature}
+      \field{volume}{40}
+      \field{year}{2013}
+      \field{pages}{631\bibrangedash 642}
+      \range{pages}{12}
+    \endentry
+    \entry{marinescu2019mobileappdev}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af835d653cce9b0f3182e37ab4b08704}{%
+           family={Marinescu},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing}%
+      }
+      \strng{namehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{fullhash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{bibnamehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{authorbibnamehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{authornamehash}{af835d653cce9b0f3182e37ab4b08704}
+      \strng{authorfullhash}{af835d653cce9b0f3182e37ab4b08704}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mobile Application Development: A Practical Guide}
+      \field{year}{2019}
+    \endentry
+    \entry{pan2010survey}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eed11828ee32a4b3f136b2f665492fb5}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fb6d669be33ccc30fc5a1911273dc42}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{fullhash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{bibnamehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{authorbibnamehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{authornamehash}{60be322601cec9420ae7ec9cb934dd83}
+      \strng{authorfullhash}{60be322601cec9420ae7ec9cb934dd83}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Knowledge and Data Engineering}
+      \field{number}{10}
+      \field{title}{A survey on transfer learning}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{pages}{1345\bibrangedash 1359}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TKDE.2009.191
+      \endverb
+    \endentry
+    \entry{Rojas2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dafdbfd82cee8fa2ddd46c1d4a61a609}{%
+           family={Rojas\bibnamedelima León},
+           familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{fullhash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{bibnamehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{authorbibnamehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{authornamehash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \strng{authorfullhash}{dafdbfd82cee8fa2ddd46c1d4a61a609}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Universidad San Gregorio de Portoviejo}
+      \field{title}{BRUXISMO INDUCIDO POR ESTRÉS}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://repositorio.sangregorio.edu.ec:8080/bitstream/123456789/2905/1/BRUXISMO INDUCIDO POR ESTRÉS.pdf
+      \endverb
+      \verb{url}
+      \verb http://repositorio.sangregorio.edu.ec:8080/bitstream/123456789/2905/1/BRUXISMO%20INDUCIDO%20POR%20ESTR%C3%89S.pdf
+      \endverb
+    \endentry
+    \entry{Sandoval2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e2332c7c0a59ace07712da685ca014d}{%
+           family={Sandoval},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a23561320a1384693964fd404f9ff1fe}{%
+           family={Fariña},
+           familyi={F\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{fullhash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{bibnamehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{authorbibnamehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{authornamehash}{07c10dad7d709189fa5d650e7c348fb1}
+      \strng{authorfullhash}{07c10dad7d709189fa5d650e7c348fb1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Odontostomatology}
+      \field{number}{1}
+      \field{title}{Prevalencia de bruxismo del sueño en niños y su relación con los signos de trastornos temporomandibulares y las parafunciones diurnas}
+      \field{volume}{10}
+      \field{year}{2016}
+      \field{pages}{41\bibrangedash 47}
+      \range{pages}{7}
+    \endentry
+    \entry{serranegra2009psychosocialbruxism}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6ca8751343b00b3dfc58d3f55abf5fef}{%
+           family={Serra-Negra},
+           familyi={S\bibinithyphendelim N\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc88219e03847857e1ea5cebf3ef4880}{%
+           family={Ramos\bibnamedelima Jorge},
+           familyi={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4037107515b3fe90dae4f6f1d134a03}{%
+           family={Flores-Mendoza},
+           familyi={F\bibinithyphendelim M\bibinitperiod},
+           given={C.\bibnamedelimi E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5396362dcfdb3abb5fbeb5a1dd6dadba}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d3a4891ed48053a78182583c71389fc}{%
+           family={Pordeus},
+           familyi={P\bibinitperiod},
+           given={I.\bibnamedelimi A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8db50d98b37437da5b78024b2ed5f7a0}
+      \strng{fullhash}{5353c701b18ca28fef72ded0a0bea02a}
+      \strng{bibnamehash}{5353c701b18ca28fef72ded0a0bea02a}
+      \strng{authorbibnamehash}{5353c701b18ca28fef72ded0a0bea02a}
+      \strng{authornamehash}{8db50d98b37437da5b78024b2ed5f7a0}
+      \strng{authorfullhash}{5353c701b18ca28fef72ded0a0bea02a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Paediatric Dentistry}
+      \field{title}{Influence of psychosocial factors on the development of sleep bruxism among children}
+      \field{volume}{19}
+      \field{year}{2009}
+      \field{pages}{309\bibrangedash 314}
+      \range{pages}{6}
+    \endentry
+    \entry{Shinkai1998}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0f2098bb0c65396826da7453485edd4a}{%
+           family={Shinkai},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7527468f0c3c2af1486a2fd52cff16d5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d838463ef045857868a4fef29aeccbfb}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={F.\bibnamedelimi A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04fa60f79a2c7842be5b9d90fb52a99a}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3debe4039e94de1105896c0277a9a1dd}
+      \strng{fullhash}{b9b777daa9454cc60ac3149fd453c939}
+      \strng{bibnamehash}{b9b777daa9454cc60ac3149fd453c939}
+      \strng{authorbibnamehash}{b9b777daa9454cc60ac3149fd453c939}
+      \strng{authornamehash}{3debe4039e94de1105896c0277a9a1dd}
+      \strng{authorfullhash}{b9b777daa9454cc60ac3149fd453c939}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rev Odontol Univ São Paulo}
+      \field{number}{1}
+      \field{title}{Prevalence of nocturnal bruxism 2-11-year-old children}
+      \field{volume}{12}
+      \field{year}{1998}
+      \field{pages}{29\bibrangedash 37}
+      \range{pages}{9}
+    \endentry
+    \entry{shorten2019survey}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2578ed69420ce4235e06ea1cbffaa26c}{%
+           family={Shorten},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=befccf2d8e1a45e7fed39de0681f8d24}{%
+           family={Khoshgoftaar},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{fullhash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{bibnamehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{authorbibnamehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{authornamehash}{6c13f6f412cc095909fffa746a374e5c}
+      \strng{authorfullhash}{6c13f6f412cc095909fffa746a374e5c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Big Data}
+      \field{number}{1}
+      \field{title}{A survey on Image Data Augmentation for Deep Learning}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 48}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.1186/s40537-019-0197-0
+      \endverb
+    \endentry
+    \entry{srivastava2014dropout}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3d78af3d34e4fdd50aa3a9b482c840b3}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c5f7dcfa6f8cfad7a98e00d2c3b338d}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={G.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a98c6ee140cff383b5deb40f1bbadc4a}{%
+           family={Krizhevsky},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3cfbe74042f3457db587a42603e1509}{%
+           family={Sutskever},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff4643153f1f765d12f548c1fa292974}{%
+           family={Salakhutdinov},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b16e9144fb18c2872ff6eb225316a677}
+      \strng{fullhash}{053d3d5246d88fc4d556f60254f2443b}
+      \strng{bibnamehash}{053d3d5246d88fc4d556f60254f2443b}
+      \strng{authorbibnamehash}{053d3d5246d88fc4d556f60254f2443b}
+      \strng{authornamehash}{b16e9144fb18c2872ff6eb225316a677}
+      \strng{authorfullhash}{053d3d5246d88fc4d556f60254f2443b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{1}
+      \field{title}{Dropout: A simple way to prevent neural networks from overfitting}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{pages}{1929\bibrangedash 1958}
+      \range{pages}{30}
+    \endentry
+    \entry{szeliski2010computervision}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d19846bb0d3c0031f9f746e0a1188ab8}{%
+           family={Szeliski},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{fullhash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{bibnamehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{authorbibnamehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{authornamehash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \strng{authorfullhash}{d19846bb0d3c0031f9f746e0a1188ab8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer Vision: Algorithms and Applications}
+      \field{year}{2010}
+    \endentry
+    \entry{Tang2020}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=a5d04a80ad5e364c3f34f98a8f695e81}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Wenjun},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a85dcf731e772b177341998a236d587a}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28dcf77c455b7bee7b41d166d220da13}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27e95fec17d39466e9abd97b18a97a90}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Tingwei},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e4393c76866843ee57a93d2010a7ade}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a44c3dffdeab4748f9387da05b041ac}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a307f514151c29b877d167be90545f0}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Jinhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c0616c994dd3fcf18aba8a8673cc353}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Weihong},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cacd034725d0431a7b1f3fd4a060c02}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{db57574fe0111ea60ffeba6c68b6021b}
+      \strng{fullhash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \strng{bibnamehash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \strng{authorbibnamehash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \strng{authornamehash}{db57574fe0111ea60ffeba6c68b6021b}
+      \strng{authorfullhash}{0b5668bfc95f322ff31eb57e842a0c00}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{An Automatic Recognition of Tooth-Marked Tongue Based on Tongue Region Detection and Tongue Landmark Detection via Deep Learning}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2020.3017725
+      \endverb
+    \endentry
+    \entry{Tiryaki2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=74364d123eada1baf78751ce9e740302}{%
+           family={Tiryaki},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=065f935006507e4c8ea218e8cd440e8f}{%
+           family={Torenek-Agirman},
+           familyi={T\bibinithyphendelim A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d2a01a458c766c667abe161c911bc24}{%
+           family={Miloglu},
+           familyi={M\bibinitperiod},
+           given={O.\bibnamedelimi et\bibnamedelima al.},
+           giveni={O\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b0329633441683b0185d90ee91e69b99}
+      \strng{fullhash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \strng{bibnamehash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \strng{authorbibnamehash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \strng{authornamehash}{b0329633441683b0185d90ee91e69b99}
+      \strng{authorfullhash}{40f48c38ce2afe6d3296e2d6225c8cab}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Med Imaging}
+      \field{title}{Artificial intelligence in tongue diagnosis: classification of tongue lesions and normal tongue images using deep convolutional neural network}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{pages}{59}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12880-024-01234-3
+      \endverb
+    \endentry
+    \entry{Valera2003}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f981df8b0150a1c985dabb5478caa147}{%
+           family={Valera},
+           familyi={V\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c1ab8ef1f7882c6b73512d914c3cf1b}{%
+           family={Travitzki},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi V.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bc44a8b2364fb0a8c08e0af79daf69f}{%
+           family={Mattar},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7905cdd41d303132844ea498eac97ab9}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e71adf5c91b4af87d4eb2666ab776811}{%
+           family={Elias},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60dbf2160f152c430b460d883f918683}{%
+           family={Anselmo-Lima},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={W.\bibnamedelimi T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35180374858099b44ff2d99ae1403f21}
+      \strng{fullhash}{d171633f2e43014eadfb625b0d4b5651}
+      \strng{bibnamehash}{d171633f2e43014eadfb625b0d4b5651}
+      \strng{authorbibnamehash}{d171633f2e43014eadfb625b0d4b5651}
+      \strng{authornamehash}{35180374858099b44ff2d99ae1403f21}
+      \strng{authorfullhash}{d171633f2e43014eadfb625b0d4b5651}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Pediatric Otorhinolaryngology}
+      \field{number}{7}
+      \field{title}{Muscular functional and orthodontic changes in preschool children with enlarged adenoids and tonsils}
+      \field{volume}{67}
+      \field{year}{2003}
+      \field{pages}{761\bibrangedash 770}
+      \range{pages}{10}
+    \endentry
+    \entry{vallejo2002bruxismoinfantil}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2254048df9123272ad5de94577e4373e}{%
+           family={Vallejo},
+           familyi={V\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6c683f1710d8cbae9d65b887391b3cc}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6a9b702b3e29a227606d7888c73ea5}{%
+           family={Del\bibnamedelima Castillo},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f367639c357c2adac8ea5930b1eedba}
+      \strng{fullhash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \strng{bibnamehash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \strng{authorbibnamehash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \strng{authornamehash}{9f367639c357c2adac8ea5930b1eedba}
+      \strng{authorfullhash}{7a8ad7afd7aaa61babfcb0ce64555330}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Odontología Pediátrica}
+      \field{title}{El bruxismo infantil}
+      \field{volume}{3}
+      \field{year}{2002}
+      \field{pages}{135\bibrangedash 141}
+      \range{pages}{7}
+    \endentry
+    \entry{vanderas1999catecholaminebruxism}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=072c0c2a998fb3d0375f5946298b2e13}{%
+           family={Vanderas},
+           familyi={V\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04333378d2028c833a677d47190d1fa4}{%
+           family={Menenakou},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db333bc17c3871e07a4675a804483c71}{%
+           family={Qouimtzis},
+           familyi={Q\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3be88ae7749f375e46488e7d9d9183c}
+      \strng{fullhash}{6cb0d0709a1083903c1063199ae58272}
+      \strng{bibnamehash}{6cb0d0709a1083903c1063199ae58272}
+      \strng{authorbibnamehash}{6cb0d0709a1083903c1063199ae58272}
+      \strng{authornamehash}{e3be88ae7749f375e46488e7d9d9183c}
+      \strng{authorfullhash}{6cb0d0709a1083903c1063199ae58272}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Oral Rehabilitation}
+      \field{title}{Urinary catecholamine levels and bruxism in children}
+      \field{volume}{2}
+      \field{year}{1999}
+      \field{pages}{103\bibrangedash 110}
+      \range{pages}{8}
+    \endentry
+    \entry{vieiraandrade2014sleepbruxism}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2a87dcd133d930bff302d7dfc82ee869}{%
+           family={Vieira-Andrade},
+           familyi={V\bibinithyphendelim A\bibinitperiod},
+           given={R.\bibnamedelimi G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1534d15c8479f68a3c2c1d1394287981}{%
+           family={Drumond},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e44781c4ff20d6b3f8a3606e3e08071e}{%
+           family={Martins-Júnior},
+           familyi={M\bibinithyphendelim J\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{f64965c16e8b088bcf846eef45e46b01}
+      \strng{fullhash}{bc670ec4126682758fa451bace69dc2f}
+      \strng{bibnamehash}{bc670ec4126682758fa451bace69dc2f}
+      \strng{authorbibnamehash}{bc670ec4126682758fa451bace69dc2f}
+      \strng{authornamehash}{f64965c16e8b088bcf846eef45e46b01}
+      \strng{authorfullhash}{bc670ec4126682758fa451bace69dc2f}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatric Dentistry}
+      \field{title}{Prevalence of sleep bruxism and associated factors in preschool children}
+      \field{volume}{36}
+      \field{year}{2014}
+      \field{pages}{46\bibrangedash 50}
+      \range{pages}{5}
+    \endentry
+    \entry{Zambra2003}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6b6fb2429fba01bbc5d1cec6605c4702}{%
+           family={Zambra},
+           familyi={Z\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c26bd6f5d0035d3d5e1e256486818e4d}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={C.\bibnamedelimi F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a93c9394402939097459b4d81b423922}
+      \strng{fullhash}{a93c9394402939097459b4d81b423922}
+      \strng{bibnamehash}{a93c9394402939097459b4d81b423922}
+      \strng{authorbibnamehash}{a93c9394402939097459b4d81b423922}
+      \strng{authornamehash}{a93c9394402939097459b4d81b423922}
+      \strng{authorfullhash}{a93c9394402939097459b4d81b423922}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Av Odontoestomatol}
+      \field{title}{Bruxismo}
+      \field{volume}{19}
+      \field{year}{2003}
+      \field{pages}{123\bibrangedash 130}
+      \range{pages}{8}
+    \endentry
+    \entry{Zhao2024}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5ed0767d6fd8878eadd910808e733e3f}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xinshen},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc23eb566ce30e1c86e358a959a9d6e7}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ad67b3bb0e3ac48c12bbda8ffcd2c3f}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Xiangyong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2053a78b8c7e674d28eabbe236f2f077}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50ceff0829b288fc0f45395bb44ad409}
+      \strng{fullhash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \strng{bibnamehash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \strng{authorbibnamehash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \strng{authornamehash}{50ceff0829b288fc0f45395bb44ad409}
+      \strng{authorfullhash}{4c25adc93dbdc33ca1568f61b2f89b6e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Swin-ResNet: Research and Implementation of a Tooth-Marked Tongue Classification Method Combining ResNet-50 and Swin Transformer}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1145/3644116.3644271
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

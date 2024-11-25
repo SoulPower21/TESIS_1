@@ -1,0 +1,109 @@
+\chapter{Planteamiento del Problema}
+\section{Descripción de la Realidad Problemática}
+
+El bruxismo, definido como una actividad repetitiva de los músculos mandibulares que incluye el apretamiento o rechinamiento involuntario de los dientes, es una condición muy frecuente en la población infantil. De acuerdo con la Academia Americana de Medicina del Sueño, este hábito no controlado ocurre principalmente durante las horas de descanso nocturno y puede generar importantes repercusiones tanto en la salud bucal como en el bienestar general del niño \parencite{AmericanAcademy2014}.
+
+La prevalencia de esta condición en niños es un tema ampliamente investigado, pero con resultados variables dependiendo de los contextos geográficos y los enfoques metodológicos utilizados en los estudios. Según una revisión sistemática, la prevalencia de bruxismo en niños menores de 12 años puede oscilar entre el 3.5\% y el 40.6\%, sin observarse diferencias significativas en cuanto a género \parencite{Manfredini2013}. En países de América Latina, como Brasil, los estudios indican cifras que varían entre un 32\% y un 43\%, mientras que en Chile se ha reportado una prevalencia cercana al 32\%, con un aumento hasta el 38\% en niños de 6 años \parencite{Shinkai1998, Sandoval2016}.
+
+El bruxismo infantil puede clasificarse en dos categorías principales: bruxismo del sueño y bruxismo de vigilia. Aunque ambos tipos presentan características comunes, el bruxismo del sueño es más prevalente en niños, aunque frecuentemente pasa desapercibido en sus etapas iniciales. Esto dificulta su detección y tratamiento oportunos, incrementando el riesgo de complicaciones a largo plazo \parencite{Camoin2017}.
+
+Diversos estudios destacan la naturaleza multifactorial del bruxismo infantil, identificando factores locales, psicológicos, hereditarios y fisiopatológicos como principales contribuyentes. Por ejemplo, las maloclusiones dentales, el estrés emocional y la ansiedad son factores recurrentes, mientras que una predisposición genética también juega un rol significativo. En particular, investigaciones han evidenciado que los niños cuyos padres tienen antecedentes de bruxismo presentan una mayor probabilidad de desarrollar esta condición \parencite{Abe1966, Lobbezoo1997}.
+
+Una de las mayores dificultades en el diagnóstico del bruxismo en niños radica en distinguir entre el desgaste natural de los dientes asociado al desarrollo y el desgaste patológico provocado por esta condición. Los profesionales de la salud generalmente recurren a cuestionarios dirigidos a los padres para recopilar información, complementándolos con un examen clínico detallado del niño. Sin embargo, en casos más graves, la polisomnografía (PSG) se considera el estándar de oro para registrar los episodios de bruxismo durante el sueño \parencite{Luiz2008, Sandoval2016}. A pesar de su eficacia, la PSG presenta limitaciones significativas, como altos costos, infraestructura compleja y la incomodidad que genera en pacientes pediátricos \parencite{Chisini2020}.
+
+Adicionalmente, estudios recientes han asociado el bruxismo con problemas respiratorios, como la apnea obstructiva del sueño (AOS), en la que los movimientos mandibulares pueden ser intentos del cuerpo para mejorar el flujo de aire durante el sueño \parencite{Bulanda2021, Goettems2017}. Estas conexiones subrayan la necesidad de métodos diagnósticos más accesibles y no invasivos. En este contexto, herramientas tecnológicas basadas en aprendizaje profundo, que analicen patrones como los movimientos mandibulares y las características observables en la lengua, podrían revolucionar la forma en que se diagnostica esta condición \parencite{Chisini2020}.
+
+En Perú, los estudios reflejan cifras preocupantes. En La Brea, Piura, el 65.22\% de los niños entre 4 y 6 años presentan signos de bruxismo, con una mayor incidencia en niños de 5 años \parencite{Baldeon2014}. Asimismo, en Buenos Aires, Piura, se encontró una prevalencia de hasta el 69.8\% en niños preescolares \parencite{Delgado2002}. Estas cifras superan ampliamente las reportadas en países como Estados Unidos, donde la prevalencia alcanza el 38\% \parencite{Cheifetz2005}, o en Brasil, con un 43\% \parencite{Valera2003}.
+
+Aunque factores como las parasitosis intestinales han sido objeto de estudio en relación con el bruxismo en Perú, no se ha hallado una correlación significativa \parencite{Baldeon2014}. Sin embargo, la alta prevalencia de esta condición justifica el desarrollo de soluciones tecnológicas innovadoras, como aplicaciones móviles basadas en aprendizaje profundo, para facilitar un diagnóstico temprano y más preciso.
+
+En conclusión, el bruxismo infantil constituye una condición prevalente con múltiples factores etiológicos. Su diagnóstico oportuno es crucial para prevenir consecuencias graves, como desgaste dental severo, problemas musculares y articulares, así como alteraciones en el desarrollo facial. La implementación de tecnologías accesibles y no invasivas representa un paso adelante en la mejora de la calidad de vida de los niños afectados, al tiempo que permite optimizar los recursos en entornos de atención médica.
+
+\section{Formulación del Problema}
+Con el objetivo de formular los objetivos de esta investigación, se propusieron las siguientes preguntas.
+\subsection{Problema General}
+PG: \newcommand{\ProblemaGeneral}{
+	¿Puede un sistema automatizado, basado en técnicas de aprendizaje profundo, realizar un prediagnóstico efectivo del bruxismo en niños mediante la identificación de características en imágenes de la lengua?
+}
+\ProblemaGeneral
+\subsection{Problemas Específicos}
+\newcommand{\Pbone}{
+	¿Cómo se puede diseñar un modelo de aprendizaje profundo, como redes neuronales convolucionales (CNN), para clasificar imágenes de la lengua y detectar signos de bruxismo?
+	}
+\newcommand{\Pbtwo}{
+	¿Cuáles son los patrones visuales en imágenes de la lengua que están asociados con episodios de bruxismo en niños?
+	}
+\newcommand{\Pbthree}{
+	¿Qué técnicas de procesamiento de imágenes y extracción de características son más efectivas para identificar signos de bruxismo a partir de imágenes de la lengua?
+	}
+\newcommand{\Pbfour}{
+	¿Cuál es la precisión y tasa de éxito del sistema propuesto en comparación con los métodos diagnósticos tradicionales?
+	}
+\newcommand{\Pbfive}{
+	¿Cómo contribuye la implementación de un sistema automatizado basado en el análisis de imágenes al incremento de la detección temprana de bruxismo en niños?
+}
+
+\begin{itemize}
+	\item PE1: {\Pbone}
+	\item PE2: {\Pbtwo}
+	\item PE3: {\Pbthree}
+	\item PE4: {\Pbfour}
+	\item PE5: {\Pbfive}
+\end{itemize}
+
+\section{Objetivos de la Investigación}
+A continuación, se presentan el objetivo general y los objetivos específicos.
+\subsection{Objetivo General}
+OG: \newcommand{\ObjetivoGeneral}{
+	Desarrollar y validar un sistema automatizado basado en técnicas de aprendizaje profundo para el prediagnóstico de bruxismo en niños, utilizando el análisis de imágenes de la lengua.
+	}
+\ObjetivoGeneral
+\subsection{Objetivos Específicos}
+\newcommand{\Objone}{
+	Diseñar un modelo de aprendizaje profundo, específicamente una red neuronal convolucional (CNN), que pueda clasificar con precisión las imágenes de la lengua para identificar episodios de bruxismo.
+	}
+\newcommand{\Objtwo}{
+	Identificar y analizar los patrones visuales en imágenes de la lengua que son indicativos de bruxismo infantil.
+	}
+\newcommand{\Objthree}{
+	Evaluar y comparar diversas técnicas de procesamiento de imágenes, como la segmentación y el análisis de texturas, para la detección de signos de bruxismo en imágenes de la lengua.
+	}
+\newcommand{\Objfour}{
+	Validar el rendimiento del modelo utilizando un conjunto de datos de imágenes de lenguas de niños con y sin bruxismo, analizando su precisión, sensibilidad y especificidad.
+	}
+\newcommand{\Objfive}{
+	Desarrollar una interfaz práctica que permita el uso del sistema en entornos clínicos o domésticos, facilitando la recolección y análisis de imágenes de la lengua para el monitoreo de la salud infantil.
+	} 
+
+\begin{itemize}
+	\item OE1: {\Objone}
+	\item OE2: {\Objtwo}
+	\item OE3: {\Objthree}
+	\item OE4: {\Objfour}
+	\item OE5: {\Objfive}
+\end{itemize}
+
+
+
+\section{Justificación de la Investigación}
+
+\subsection{Teórica}
+La investigación propuesta tiene como objetivo contribuir significativamente al avance del conocimiento en el ámbito de la inteligencia artificial (IA) y el aprendizaje profundo, con especial enfoque en su aplicación dentro del área de la salud. Este estudio se centra en la detección de trastornos del sueño, particularmente el bruxismo infantil, mediante el análisis de imágenes. A nivel teórico, se busca integrar y aplicar conceptos avanzados de procesamiento de imágenes, utilizando redes neuronales convolucionales (CNN), dentro de un contexto clínico. Se pretende explorar cómo los patrones visuales presentes en las imágenes de la lengua pueden servir como indicadores fiables para el diagnóstico de bruxismo, lo que podría revolucionar el enfoque tradicional para la detección de este trastorno. Además, esta investigación tiene como objetivo llenar un vacío en la literatura científica existente, ya que son pocos los estudios que han abordado la aplicación de técnicas de visión por computadora en la identificación de trastornos del sueño, especialmente en niños.
+
+\subsection{Práctica}
+Desde una perspectiva práctica, este estudio tiene el potencial de desarrollar una herramienta innovadora, accesible y no invasiva, que podría ser utilizada tanto por padres como por profesionales de la salud para la detección temprana del bruxismo infantil. El sistema automatizado propuesto, basado en análisis de imágenes, tiene la capacidad de ofrecer una alternativa más económica y sencilla frente a los métodos de diagnóstico convencionales, que suelen ser complejos y costosos, como los estudios de sueño. Al proporcionar una solución tecnológica, este enfoque permitiría una intervención temprana, lo que contribuiría a prevenir complicaciones de salud bucal y otros trastornos relacionados con el bruxismo no diagnosticado. En consecuencia, se espera que este avance mejore la calidad de vida de los niños afectados, facilitando un diagnóstico más rápido y preciso.
+
+\subsection{Metodológica}
+A nivel metodológico, esta investigación representa una valiosa contribución a la validación y aplicación de técnicas de aprendizaje profundo, especialmente las redes neuronales convolucionales (CNN), en el análisis de imágenes médicas para el diagnóstico de enfermedades. El estudio proporcionará información valiosa sobre cómo estas técnicas pueden mejorar la precisión y eficiencia en la detección de trastornos relacionados con el sueño. Además, los resultados de esta investigación servirán como una base sólida para futuras investigaciones en otras áreas de la medicina, permitiendo explorar nuevas aplicaciones del diagnóstico automatizado. Asimismo, se evaluarán diversas estrategias de procesamiento de imágenes, lo que ayudará a establecer mejores prácticas para el uso de CNN en la identificación de características clínicas específicas, marcando un hito en el uso de IA para el diagnóstico médico.
+
+\section{Delimitación del Estudio}
+A continuación, se presenta la delimitación del estudio en términos espaciales, temporales y conceptuales.
+
+\subsection{Delimitación Espacial}
+El diagnóstico temprano del bruxismo infantil es un desafío que trasciende fronteras, ya que la necesidad de su detección no se limita a una región geográfica específica. Por lo tanto, este estudio utilizará conjuntos de datos disponibles de plataformas internacionales como Kaggle para el análisis mediante técnicas de Inteligencia Artificial. Si bien los resultados obtenidos serán aplicables a nivel global, el desarrollo y aplicación práctica del sistema estarán enfocados en optimizar su uso en centros odontológicos y pediátricos en Lima, Perú, donde se buscará ofrecer una herramienta accesible y efectiva para la detección precoz de bruxismo.
+
+\subsection{Delimitación Temporal}
+La investigación se llevará a cabo en un período de cinco meses, desde marzo hasta julio de 2025. Durante este lapso, se procederá con la recolección y preprocesamiento de imágenes, el desarrollo y ajuste del modelo de aprendizaje profundo, y la validación de su efectividad. Los estudios y datos previos relevantes que apoyan esta investigación abarcan desde publicaciones hechas entre 2020 y 2024, asegurando que el análisis se realice con información reciente y pertinente.
+
+\subsection{Delimitación Conceptual}
+El enfoque de esta investigación reside en la creación de un sistema basado en técnicas avanzadas de Deep Learning para el análisis de imágenes de la lengua, con el fin de facilitar el prediagnóstico de bruxismo en pacientes pediátricos. Se emplearán modelos de Redes Neuronales Convolucionales (CNN) para detectar patrones visuales que puedan sugerir la presencia de este trastorno. Además, se aplicarán metodologías como Transferencia de Aprendizaje y técnicas de Aumento de Datos para mejorar la precisión del modelo y asegurar un análisis clínico más fiable. Este enfoque no solo busca innovar en el diagnóstico, sino también aportar nuevas herramientas que optimicen la detección temprana de bruxismo infantil.

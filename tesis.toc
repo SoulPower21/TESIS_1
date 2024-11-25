@@ -1,0 +1,74 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Resumen}{1}{chapter*.7}%
+\contentsline {chapter}{Introducción}{3}{chapter*.9}%
+\contentsline {chapter}{\numberline {I}Planteamiento del Problema}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Descripción de la Realidad Problemática}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Formulación del Problema}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Problema General}{6}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Problemas Específicos}{6}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Objetivos de la Investigación}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Específicos}{6}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Justificación de la Investigación}{7}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Teórica}{7}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Práctica}{7}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Metodológica}{8}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1.5}Delimitación del Estudio}{8}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Delimitación Espacial}{8}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Delimitación Temporal}{8}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Delimitación Conceptual}{9}{subsection.1.5.3}%
+\contentsline {chapter}{\numberline {II}Marco Teórico}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Antecedentes de la investigación}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Bases Teóricas}{21}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Bruxismo en niños}{21}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Definición}{21}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Síntomas}{22}{subsubsection.2.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}Factores de riesgo}{22}{subsubsection.2.2.1.3}%
+\contentsline {paragraph}{Factores odontológicos}{22}{paragraph*.18}%
+\contentsline {paragraph}{Factores psicológicos}{22}{paragraph*.19}%
+\contentsline {paragraph}{Factores relacionados con el sueño}{22}{paragraph*.20}%
+\contentsline {paragraph}{Factores genéticos}{22}{paragraph*.21}%
+\contentsline {subsection}{\numberline {2.2.2}Diagnóstico y prediagnóstico del bruxismo}{23}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Método instrumental}{23}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Método no instrumental}{23}{subsubsection.2.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Aprendizaje profundo y visión por computadora}{23}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}Definición}{23}{subsubsection.2.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}Visión por computadora}{23}{subsubsection.2.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.2.3.3}Aplicación en la salud}{23}{subsubsection.2.2.3.3}%
+\contentsline {subsection}{\numberline {2.2.4}Aplicaciones móviles}{24}{subsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.4.1}Definición}{24}{subsubsection.2.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.2.4.2}Importancia en la salud}{24}{subsubsection.2.2.4.2}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{24}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Bruxismo primario}{24}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Disfunción temporomandibular}{24}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Cefaleas}{25}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Sensibilidad dental}{25}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Odontología del sueño}{25}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Lingua geográfica}{25}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Redes neuronales convolucionales}{25}{subsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.7.1}Definición y funcionamiento}{25}{subsubsection.2.3.7.1}%
+\contentsline {subsubsection}{\numberline {2.3.7.2}Componentes principales}{25}{subsubsection.2.3.7.2}%
+\contentsline {subsection}{\numberline {2.3.8}Support Vector Machines (SVM)}{26}{subsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.3.9}Extracción de características}{26}{subsection.2.3.9}%
+\contentsline {subsection}{\numberline {2.3.10}Transfer learning}{26}{subsection.2.3.10}%
+\contentsline {subsection}{\numberline {2.3.11}Data augmentation}{26}{subsection.2.3.11}%
+\contentsline {subsection}{\numberline {2.3.12}Segmentación de imágenes}{26}{subsection.2.3.12}%
+\contentsline {subsection}{\numberline {2.3.13}Redes generativas adversarias}{27}{subsection.2.3.13}%
+\contentsline {subsection}{\numberline {2.3.14}Pooling}{27}{subsection.2.3.14}%
+\contentsline {subsection}{\numberline {2.3.15}Regularización}{27}{subsection.2.3.15}%
+\contentsline {section}{\numberline {2.4}Hipótesis}{27}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Hipótesis General}{27}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Hipótesis Específicas}{27}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {III}Metodología de la Investigación}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Diseño de la investigación}{29}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Alcance de la investigación}{29}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Enfoque de la investigación}{29}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Población}{29}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Muestra}{30}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Operacionalización de variables}{30}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Técnicas de recolección de datos}{30}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Metodología de Implementación de la Solución}{31}{section.3.4}%
+\contentsline {chapter}{Referencias}{32}{chapter*.25}%
+\contentsline {chapter}{Anexos}{36}{section*.26}%
+\contentsline {section}{\numberline {A}Árbol de Problemas}{37}{section.Alph0.1}%
+\contentsline {section}{\numberline {B}Matriz de contingencia}{38}{section.Alph0.2}%
